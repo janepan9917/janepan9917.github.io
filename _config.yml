@@ -1,2 +1,3 @@
 name: Jane's Blog?!
 theme: jekyll-theme-cayman
+permalink: /blog/:year/:month/:day/:title
