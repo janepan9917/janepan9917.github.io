@@ -19,7 +19,7 @@ I am a member of the Princeton NLP Group; I'm fortunate to be advised by [Danqi 
 
 I graduated _magna cum laude_ from Columbia University with a B.S. in Applied Mathematics, where I was a Davis Scholar performing research with the Data Science Institute. Before I dived into ML research, I worked in quantitative finance and data science at Morgan Stanley and Acadian Asset Management. I've also completed research projects in reinforcement learning applied to machine learning, computational genomics, and biophysics.
 
-I love teaching mathematics, especially proof-based courses or courses related to machine learning. At Princeton, I taught introductory theoretical computer science (COS 340/240); at Columbia, I taught Artificial Intelligence (COMS 4701) and Discerete Mathematics (COMS 3203).
+I love teaching mathematics, especially proof-based courses or courses related to machine learning. At Princeton, I teach introductory theoretical computer science (COS 340/240); at Columbia, I taught Artificial Intelligence (COMS 4701) and Discrete Mathematics (COMS 3203).
 
 In my free time, I enjoy reading and writing; my favorite author is John Steinbeck, and I'm very interested in the modernist works of Wallace Stevens and T.S. Eliot. Lately, I've been interested in [origami](https://jonakashima.com.br/2021/05/11/origami-monkey/) and fitness. 
 
