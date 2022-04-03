@@ -19,5 +19,5 @@ I am a member of the Princeton NLP Group; I'm fortunate to be advised by [Danqi 
 
 I graduated _magna cum laude_ from Columbia University with a B.S. in Applied Mathematics. Before I dived into ML research, I worked in quantitative finance and data science at Morgan Stanley and Acadian Asset Management. 
 
-In my free time, I enjoy reading and writing; my favorite author is John Steinbeck, and I'm very interested in the modernist works of Wallace Stevens and T.S. Eliot. I also enjoy 
+In my free time, I enjoy reading and writing; my favorite author is John Steinbeck, and I'm very interested in the modernist works of Wallace Stevens and T.S. Eliot. 
 
