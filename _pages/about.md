@@ -13,7 +13,7 @@ Thanks for visiting my website! So nice to meet you :D
 About me
 ======
 
-My name is Jane. I'm a first year Master's student at Princeton University in the Department of Computer Science. I study machine learning, specializing in natural language processing.
+My name is Jane. I'm a first year Master's student at Princeton University in the Department of Computer Science. I study machine learning, specializing in natural language processing. Broadl, I'm interested in large language models and their performance in the few-shot regime, as well as in-context learning and prompting methods for structured prediction.
 
 I am a member of the Princeton NLP Group; I'm fortunate to be advised by [Danqi Chen](https://www.cs.princeton.edu/~danqic/). Previously, I worked with [Chunhua Weng](https://people.dbmi.columbia.edu/~chw7007/) on NLP for the biomedical domain.
 
