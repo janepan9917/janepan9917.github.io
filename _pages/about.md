@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Thanks for visiting my website! So nice to meet you :D
+Thanks for visiting my website -- so nice to meet you :D
 
 About me
 ======
