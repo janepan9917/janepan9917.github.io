@@ -11,23 +11,29 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Computer Science, Princeton University, Expected 2023
+* B.S. in Applied Mathematics, Columbia University School of Engineering, 2021, _magna cum laude_
 
-Work experience
+Work Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2022 - Current: Research Assistant
+  * Princeton University
+  * Supervisor: Professor Danqi Chen
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2020 - Spring 2021: Research Assistant
+  * Data Science Institute, Columbia University
+  * Compiled manually annotated corpus of sentence inference pairs derived from Pubmed clinical studies and developed BERT-based NLI classifiers. 
+  * This project received First Place Award in 2021 COVID Information Commons Student Paper Competition   
+  * Supervisor: Professor Chunhua Weng
   
-Skills
+* Summers 2020, 2021: Alphawise (Quant Research) Summer Analyst
+  * Morgan Stanley
+  * Worked in Alternative Data team to apply NLP techniques to webscraped data and built regression models to forecast various balance sheet items
+  * Supervisor: Melissa Franchi
+
+
+  
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
@@ -46,7 +52,7 @@ Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Teaching
 ======
@@ -54,6 +60,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
