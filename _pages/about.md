@@ -21,5 +21,5 @@ I graduated _magna cum laude_ from Columbia University with a B.S. in Applied Ma
 
 I love teaching mathematics, especially proof-based courses or courses related to machine learning. At Princeton, I teach introductory theoretical computer science (COS 340/240); at Columbia, I taught Artificial Intelligence (COMS 4701) and Discrete Mathematics (COMS 3203).
 
-In my free time, I enjoy reading and writing; my favorite author is John Steinbeck, and I'm very interested in the modernist works of Wallace Stevens and T.S. Eliot. Lately, I've been interested in [origami](https://jonakashima.com.br/2021/05/11/origami-monkey/) and fitness. 
+In my free time, I enjoy reading and writing; my favorite author is John Steinbeck, and I'm very interested in modernist poetry. Lately, I've been interested with [origami](https://jonakashima.com.br/2021/05/11/origami-monkey/) and fitness. 
 
