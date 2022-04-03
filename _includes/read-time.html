@@ -1,7 +1,7 @@
 {% if post.read_time %}
-  {% assign words = post.content | strip_html | number_of_words %}
+  {{<time datetime="{{ post.date | date_to_xmlschema }}"</time>}}
 {% elsif page.read_time %}
-  {% assign words = page.content | strip_html | number_of_words %}
+  {{<time datetime="{{ page.date | date_to_xmlschema }}"</time>}}
 {% endif %}
 
 {% if site.words_per_minute %}
