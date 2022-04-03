@@ -1,6 +1,17 @@
 {% if post.read_time %}
-  <p class="post__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
+  {% assign words = post.content | strip_html | number_of_words %}
 {% elsif page.read_time %}
-  <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
+  {% assign words = page.content | strip_html | number_of_words %}
 {% endif %}
 
+{% if site.words_per_minute %}
+  {% if words < 180 %}
+	  {{ site.data.ui-text[site.locale].less_than | default: "less than" }} 1 {{ site.data.ui-text[site.locale].minute_read | default: "minute read" }}
+	{% elsif words < 360 %}
+	  1 {{ site.data.ui-text[site.locale].minute_read | default: "minute read" }}
+	{% else %}
+	  {{ words | divided_by:site.words_per_minute }} {{ site.data.ui-text[site.locale].minute_read | default: "minute read" }}
+	{% endif %}
+{% else %}
+  {{ site.data.ui-text[site.locale].undefined_wpm | "Undefined parameter words_per_minute at _config.yml" }}
+{% endif %}
