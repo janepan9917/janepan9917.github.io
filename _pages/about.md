@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "Welcome!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! So nice to meet you :D
+Thanks for visiting my website! So nice to meet you :D
 
 About me
 ======
