@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+## Education
 ======
 * M.S. in Computer Science, Princeton University, Expected 2023
 * B.S. in Applied Mathematics, Columbia University School of Engineering, 2021, _magna cum laude_
 
-Work Experience
+## Work Experience
 ======
 * Fall 2022 - Current: Research Assistant
   * Princeton University
@@ -54,7 +54,7 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul> -->
   
-Teaching
+## Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
