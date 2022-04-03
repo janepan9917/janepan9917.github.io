@@ -1,11 +1,11 @@
 {% if post.read_time %}
-  {{<time datetime="{{ post.date | date_to_xmlschema }}"</time>}}
+  {{<time datetime="{{ post.date | date_to_xmlschema }}"></time>}}
 {% elsif page.read_time %}
-  {{<time datetime="{{ page.date | date_to_xmlschema }}"</time>}}
+  {{<time datetime="{{ page.date | date_to_xmlschema }}"></time>}}
 {% endif %}
 
 {% if site.words_per_minute %}
-  {{<time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time>}}
+  {{<time datetime="{{ page.date | date_to_xmlschema }}"></time>}}
 {% else %}
   {{ site.data.ui-text[site.locale].undefined_wpm | "Undefined parameter words_per_minute at _config.yml" }}
 {% endif %}
