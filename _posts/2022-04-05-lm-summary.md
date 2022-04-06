@@ -9,9 +9,9 @@ tags:
 Sparknotes, but for language models.
 
 ## Introduction
-Anybody can rattle off a list of well-known pretrained language models, but there are several key characteristics that are worth memorizing. Here's a quick guide to the key characteristics of the various LM's.
+Anybody can rattle off a list of well-known pretrained language models, but there are several key characteristics that are worth memorizing. Here's a quick guide to the key characteristics of the various LM's. (To be completed 4/9/22)
 
-### Summary Table
+### Summary Table 
 
 | Model               | Type        | Learning Objective | Pretraining Corpora | Creator | Model Sizes |
 | ------------------- | ----------- | ------------------ | ------------------- | ------- | ----------- | 
