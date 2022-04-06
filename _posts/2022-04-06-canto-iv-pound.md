@@ -11,7 +11,7 @@ I can't believe I used to think _The Wasteland_ was hard to read.
 ## _Canto IV_
 I've had this poem bookmarked for about two years now, yet never got past the first stanza. Imagism is already hard enough to interpret, and Pound's work is quadruply so, with his allusions to obscure figures of classical mythology and superposition of sensory [ideograms](https://en.wikipedia.org/wiki/Ideogrammic_method). For those of us who last read _Percy Jackson_ in fifth grade, I've tried to annotate _Canto VI_ as legibly as possible.
 
-Disclaimer: I'm confident only in my ability to google non-English. No guarantees on the validity of any deeper interpretations!
+> Disclaimer: I'm confident only in my ability to google Greek terms and steal ideas from these [excellent](http://ezrapoundcantos.org/index.php/a-draft-of-xvi-cantos-overview/canto-iv/companion-to-canto-iv) [resources](https://www.towernotes.co.uk/literature-notes-52_Pound_Cantos_10.php). No guarantees on the validity of any deeper interpretations!
 
 I hate to chop up the poem into bits -- it feels a bit like spoon-feeding the reader, and it disrupts the flow of the poem -- but I spent two hours trying to figure out how to annotate line-by-line in markdown, to no avail. You can find the full, uninterrupted poem [here](https://www.poetryfoundation.org/poems/54316/canto-iv).
 
