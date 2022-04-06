@@ -13,11 +13,12 @@ I've had this poem bookmarked for about two years now, yet never got past the fi
 
 Disclaimer: I'm confident only in my ability to google non-English. No guarantees on the validity of any deeper interpretations!
 
-I'll chop up 
+Since two hours of googling around 
+
 ### Stanza 1, annotated
 > Palace in smoky light, <br>
 > Troy but a heap of smouldering boundary stones, <br>
-> ANAXIFORMINGES!  Aurunculeia! <br>
+> [ANAXIFORMINGES](http://bearlithia.blogspot.com/)!  Aurunculeia! <br>
 > Hear me.&nbsp; &nbsp; Cadmus of Golden Prows!  <br>
 
 [^1]: sup
@@ -44,7 +45,7 @@ Im very hungry
 
 <details>
 <summary> Troy but a heap of smouldering boundary stones, </summary>
-
-  > summary summary
-  
+~~~
+summary
+~~~
 </details>
