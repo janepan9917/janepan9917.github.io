@@ -20,7 +20,7 @@ I hate to chop up the poem into bits -- it feels a bit like spoon-feeding the re
 We open on the dawn after the fall of Troy, after the Greeks have razed the city from the inside out:
 
 > Palace in smoky light, <br>
-> Troy but a heap of smouldering boundary stones, <br>                
+> Troy but a heap of smouldering boundary stones,              
 > ANAXIFORMINGES!  Aurunculeia! <br>
 > Hear me.&nbsp; &nbsp; Cadmus of Golden Prows! <br>
 
