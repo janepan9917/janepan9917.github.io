@@ -24,7 +24,7 @@ We open on the dawn after the fall of Troy, after the Greeks have razed the city
 > ANAXIFORMINGES!  Aurunculeia! <br>
 > Hear me.&nbsp; &nbsp; Cadmus of Golden Prows! <br>
 
-Now, Pound invokes the name of several mythological figures associated with rebuilding or rebirth. "Anaxiforminges" -- literally, "lords of the lyre", or hymns -- refers to Apollo, who helped Poseidon build the walls of Troy by playing on his lyre (Ovid Heroid. xvi. 180). Aurunculeia is a reference to the Roman [Catullus' poem 61](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0006%3Apoem%3D61), a celebratory wedding song addressed to the eponymous bride. Cadmus is the founder of Thebes; holding a golden dragon at the helms of fifty ships, he also led the Thebans in the Trojan war. 
+Now, Pound invokes the name of several mythological figures associated with rebuilding or rebirth. "Anaxiforminges" -- literally, "lords of the lyre", or hymns -- refers to Apollo, who helped Poseidon build the walls of Troy by playing on his lyre (Ovid Heroid. xvi. 180). Aurunculeia is a reference to a celebratory wedding song addressed to the eponymous bride, written by the Roman poet [Catullus' poem 61](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0006%3Apoem%3D61). Cadmus is the founder of Thebes; holding a golden dragon at the helms of fifty ships, he also led the Thebans in the Trojan war. 
 
 > The silver mirrors catch the bright stones and flare, <br>
 > Dawn, to our waking, drifts in the green cool light; <br>
