@@ -11,7 +11,7 @@ I can't believe I used to think _The Wasteland_ was hard to read.
 ## _Canto IV_
 I've had this poem bookmarked for about two years now, yet never got past the first stanza. Imagism is already hard enough to interpret, and Pound's work is quadruply so, with his allusions to obscure figures of classical mythology and superposition of sensory [ideograms](https://en.wikipedia.org/wiki/Ideogrammic_method). For those of us who last read _Percy Jackson_ in fifth grade, I've tried to annotate _Canto VI_ as legibly as possible.
 
-> Disclaimer: I'm confident only in my ability to google Greek terms and steal ideas from these [excellent](http://ezrapoundcantos.org/index.php/a-draft-of-xvi-cantos-overview/canto-iv/companion-to-canto-iv) [resources](https://www.towernotes.co.uk/literature-notes-52_Pound_Cantos_10.php). No guarantees on the validity of any deeper interpretations!
+> Disclaimer: I'm confident only in my ability to browse Wikipedia and steal annotations from these [excellent](http://ezrapoundcantos.org/index.php/a-draft-of-xvi-cantos-overview/canto-iv/companion-to-canto-iv) [resources](https://www.towernotes.co.uk/literature-notes-52_Pound_Cantos_10.php). No guarantees on the validity of any deeper interpretations!
 
 I hate to chop up the poem into bits -- it feels a bit like spoon-feeding the reader, and it disrupts the flow of the poem -- but I spent two hours trying to figure out how to annotate line-by-line in markdown, to no avail. You can find the full, uninterrupted poem [here](https://www.poetryfoundation.org/poems/54316/canto-iv).
 
@@ -24,7 +24,9 @@ We open on the dawn after the fall of Troy, after the Greeks have razed the city
 > ANAXIFORMINGES!  Aurunculeia! <br>
 > Hear me.&nbsp; &nbsp; Cadmus of Golden Prows! <br>
 
-Now, Pound invokes the name of several mythological figures associated with rebuilding or rebirth. "Anaxiforminges" -- literally, "lords of the lyre", or hymns -- refers to Apollo, who helped Poseidon build the walls of Troy by playing on his lyre (Ovid Heroid. xvi. 180). Aurunculeia is a reference to a celebratory wedding song addressed to the eponymous bride, written by the Roman poet [Catullus' poem 61](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0006%3Apoem%3D61). Cadmus is the founder of Thebes; holding a golden dragon at the helms of fifty ships, he also led the Thebans in the Trojan war. 
+Now, Pound invokes the name of several mythological figures associated with rebuilding or rebirth. "Anaxiforminges" -- literally, "lords of the lyre", or hymns -- refers to Apollo, who helped Poseidon build the walls of Troy with the music of his lyre (Ovid Heroid. xvi. 180). Aurunculeia is a reference to a celebratory wedding song addressed to the bride Vinia Aurunculeia, written by the Roman poet [Catullus' poem 61](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0006%3Apoem%3D61). Cadmus is the founder of Thebes; the "Gold Prows" are  the golden dragons that sat at the figureheads of his ships.
+
+There is a tension between the still-burning ruins of Troy and the figures Pound has chosen to evoke. Apollo both created Troy and later sent a devastating plague upon its people. Cadmus raised the walls of Thebes from the blood-soaked lands of Boeotia and later led his Thebans in the pillaging of Troy. Given Helen's role in causing the Trojan war, the invocation of a wedding song lauding the beauty of a bride "fair as Venus" is indeed deeply ironic. 
 
 > The silver mirrors catch the bright stones and flare, <br>
 > Dawn, to our waking, drifts in the green cool light; <br>
