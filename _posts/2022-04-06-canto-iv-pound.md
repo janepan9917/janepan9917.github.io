@@ -13,12 +13,12 @@ I've had this poem bookmarked for about two years now, yet never got past the fi
 
 Disclaimer: I'm confident only in my ability to google non-English. No guarantees on the validity of any deeper interpretations!
 
-Since two hours of googling around 
+I hate to chop up the poem into bits -- it feels a bit like spoon-feeding the reader, and it disrupts the flow of the poem -- but I spent two hours trying to figure out how to annotate line-by-line in markdown, to no avail. You can find the full, uninterrupted poem [here](https://www.poetryfoundation.org/poems/54316/canto-iv).
 
 ### Stanza 1
 > Palace in smoky light, <br>
 > Troy but a heap of smouldering boundary stones, <br>
-> [ANAXIFORMINGES](http://bearlithia.blogspot.com/)!  Aurunculeia! <br>
+> ANAXIFORMINGES!  Aurunculeia! <br>
 > Hear me.&nbsp; &nbsp; Cadmus of Golden Prows! <br>
 > The silver mirrors catch the bright stones and flare, <br>
 > Dawn, to our waking, drifts in the green cool light; <br>
