@@ -1,5 +1,5 @@
 ---
-title: 'Ezra Pound: Canto IV, Annotated'
+title: 'Canto IV, Annotated'
 date: 2022-04-06
 permalink: /posts/2022/04/canto-iv-pound/
 tags:
@@ -9,8 +9,9 @@ tags:
 I can't believe I used to think _The Wasteland_ was hard to read.
 
 ## _Canto IV_
-I've had this poem bookmarked for about two years now, yet never got past the first stanza. Here's my annotations for others who are similarly mal-educated in the classics.
+I've had this poem bookmarked for about two years now, yet never got past the first stanza. Here's my annotations for others who are similarly maleducated in the classics.
 
+### Stanza 1, annotated
 > Palace in smoky light, <br>
 > Troy but a heap of smouldering boundary stones, <br>
 > ANAXIFORMINGES!  Aurunculeia! <br>
