@@ -20,3 +20,28 @@ I've had this poem bookmarked for about two years now, yet never got past the fi
 [^1]: sup
 
 Im very hungry
+
+> <details>
+> <summary>Palace in smoky light, </summary>
+> 
+> content body (support **markdown** syntax ~~hmm~~)
+> 
+> ```
+>   blha bah b lah
+> ```
+> 
+> </details>
+>
+><details>
+><summary> Troy but a heap of smouldering boundary stones,</summary>
+>  
+>> Troy
+>  
+></details>
+
+<details>
+<summary> Troy but a heap of smouldering boundary stones, </summary>
+
+  > summary summary
+  
+</details>
