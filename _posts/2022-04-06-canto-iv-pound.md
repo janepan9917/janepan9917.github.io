@@ -16,10 +16,16 @@ Disclaimer: I'm confident only in my ability to google non-English. No guarantee
 I hate to chop up the poem into bits -- it feels a bit like spoon-feeding the reader, and it disrupts the flow of the poem -- but I spent two hours trying to figure out how to annotate line-by-line in markdown, to no avail. You can find the full, uninterrupted poem [here](https://www.poetryfoundation.org/poems/54316/canto-iv).
 
 ### Stanza 1
+
+We open on the dawn after the fall of Troy, after the Greeks have razed the city from the inside out:
+
 > Palace in smoky light, <br>
-> Troy but a heap of smouldering boundary stones, <br>
+> Troy but a heap of smouldering boundary stones, <br                
 > ANAXIFORMINGES!  Aurunculeia! <br>
 > Hear me.&nbsp; &nbsp; Cadmus of Golden Prows! <br>
+
+Now, Pound invokes the name of several mythological figures associated with rebuilding or rebirth. "Anaxiforminges" -- literally, "lords of the lyre", or hymns -- refers to Apollo, who helped Poseidon build the walls of Troy by playing on his lyre (Ovid Heroid. xvi. 180). Aurunculeia is a reference to the Roman [Catullus' poem 61](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0006%3Apoem%3D61), a celebratory wedding song addressed to the eponymous bride. Cadmus is the founder of Thebes; holding a golden dragon at the helms of fifty ships, he also led the Thebans in the Trojan war. 
+
 > The silver mirrors catch the bright stones and flare, <br>
 > Dawn, to our waking, drifts in the green cool light; <br>
 > Dew-haze blurs, in the grass, pale ankles moving. <br>
