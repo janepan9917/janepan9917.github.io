@@ -45,7 +45,7 @@ In any case, we flash to another dawn, of a distinctly different character:
 > &emsp; &emsp; under the apple trees, <br>
 > Choros nympharum, goat-foot, with the pale foot alternate; <br>
 
-In contrast with the red-orange, fire-tinged dawn of Troy, we are now greeted with "green cool light"; the haze of smoke has been replaced with the blur of dew. The static image of ruined Troy has been replaced with the fluid dance of nymphs ("_choros nympharum_") and satyrs ("_goat-foot_"). This motion begins softly, with the drifting of the dawn, then acclerates ("_blurs_", "_pale ankles moving_") into onomatopoeia.
+In contrast with the red-orange, fire-tinged dawn of Troy, we are now greeted with "green cool light"; the haze of smoke has been replaced with the blur of dew. The static image of ruined Troy is succeeded by the fluid dance of nymphs ("_choros nympharum_") and satyrs ("_goat-foot_"). This motion begins softly, with the drifting of the dawn, then accelerates ("_blurs_", "_pale ankles moving_") into onomatopoeia.
 
 > Crescent of blue-shot waters, green-gold in the shallows, <br>
 > A black cock crows in the sea-foam; <br>
