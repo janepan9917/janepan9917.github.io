@@ -33,16 +33,7 @@ There is a tension between the still-burning ruins of Troy and the figures Pound
 
 [^apollo]: Having insulted Zeus, Apollo and Poseidon were ordered to disguise themselves as mortals and work for King Laomedon for a year, during which they built Troy. But Laomdeon was ungrateful and threatened to cut off their ears (and some other nasty stuff). As punishment, [Apollo sent a plague upon Troy, and Poseidon a sea monster.](https://www.jstor.org/stable/539834)
 
-[^cadmus]: "So, having lived the space allotted them,
-the youthful warriors perished as they smote
-the earth (their blood-stained mother) with their breasts:
-and only five of all the troop remained;
-of whom Echion, by Minerva warned,
-called on his brothers to give up the fight,
-and cast his arms away in pledge of faith.—
-when Cadmus, exiled from Sidonia's gates,
-builded the city by Apollo named,
-these five were trusted comrades in his toil." [Ovid, Metamorphoses, Book III](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0028%3Abook%3D3%3Acard%3D95)
+[^cadmus]: "So, having lived the space allotted them, the youthful warriors perished as they smote the earth (their blood-stained mother) with their breasts: and only five of all the troop remained; of whom Echion, by Minerva warned, called on his brothers to give up the fight, and cast his arms away in pledge of faith — when Cadmus, exiled from Sidonia's gates, builded the city by Apollo named, these five were trusted comrades in his toil." [Ovid, Metamorphoses, Book III](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0028%3Abook%3D3%3Acard%3D95)
 
 I'm honestly not sure what the silver mirrors are; perhaps the shields of the Greek soldiers, reflecting the crumbling Trojan stones and sunlight? I'm unconvinced by this, since I'm pretty sure the Ancient Greek [shields](https://en.wikipedia.org/wiki/Aspis) were made of wood, and if they were coated with a metal, it would have been bronze, not brittle iron. 
 
