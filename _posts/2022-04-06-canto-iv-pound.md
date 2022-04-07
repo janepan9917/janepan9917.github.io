@@ -25,9 +25,11 @@ We open on the dawn following the fall of Troy, after the Greeks have razed the 
 > Hear me.&nbsp; &nbsp; Cadmus of Golden Prows! <br>
 > The silver mirrors catch the bright stones and flare, <br>
 
-Now, Pound invokes the name of several mythological figures associated with rebuilding or rebirth. "Anaxiforminges" -- literally, "lords of the lyre", or hymns -- refers to Apollo, who helped Poseidon build the walls of Troy with the music of his lyre (Ovid Heroid. xvi. 180). Aurunculeia is a reference to a celebratory wedding song addressed to the bride Vinia Aurunculeia, written by the Roman poet [Catullus' poem 61](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0006%3Apoem%3D61). Cadmus is the founder of Thebes; the "Gold Prows" are  the golden dragons that sat at the figureheads of his ships.
+Now, Pound invokes the name of several mythological figures associated with rebuilding or rebirth. "Anaxiforminges" -- literally, "lords of the lyre", or hymns -- refers to Apollo, who helped Poseidon build the walls of Troy with the music of his lyre[^lyre]. "Aurunculeia" refers to Vinia Aurunculeia, the bride for whom the Roman poet Catallus wrote a [celebratory wedding song](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0006%3Apoem%3D61). Cadmus is the founder of Thebes; the "Gold Prows" are  the golden dragons that sat at the figureheads of his ships.
 
 There is a tension between the still-burning ruins of Troy and the figures Pound has chosen to evoke. Apollo both created Troy and later sent a devastating plague upon its people [^apollo]. Cadmus raised the walls of Thebes from the blood-soaked lands of Boeotia [^cadmus] and later led his Thebans in the pillaging of Troy. Given Helen's role in causing the Trojan war, the invocation of a wedding song lauding the beauty of a bride "fair as Venus" is indeed deeply ironic. Regardless of its ambiguous portrayal, there is an clear cyclism (or dualism?) between creation and destruction [^wasteland]. 
+
+[^lyre]: Ovid Heroid. xvi. 180
 
 [^wasteland]: This same idea, applied to life and death, will feature prominently in T.S. Eliot's _The Wasteland_. 
 
