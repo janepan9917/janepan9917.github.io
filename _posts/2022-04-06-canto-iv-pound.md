@@ -17,7 +17,7 @@ I hate to chop up the poem into bits -- it feels a bit like spoon-feeding the re
 
 ### Stanza 1
 
-We open on the dawn after the fall of Troy, after the Greeks have razed the city from the inside out:
+We open on the dawn following the fall of Troy, after the Greeks have razed the city from the inside out:
 
 > Palace in smoky light, <br>
 > Troy but a heap of smouldering boundary stones,              
