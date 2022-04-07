@@ -50,7 +50,7 @@ In contrast with the red-orange, fire-tinged dawn of Troy, we are now greeted wi
 > Crescent of blue-shot waters, green-gold in the shallows, <br>
 > A black cock crows in the sea-foam; <br>
 
-Water will play a critical role in the rest of the poem; here is our first introduction to it. Notice the emphasis on color; we have shifted from the fiery-reds of dawn to the greens of the woods to the blue-green waters from which Aphrodite rose. The black rooster is symbolic -- "apparitional", according to Pound's own comments -- and its cry warns us of the destructive nature of love and passion, just as the love of Paris for Helen brought Troy to its knees.
+Water will play a critical role in the rest of the poem; here is our first introduction to it. Notice the emphasis on color; we have shifted from the fiery-reds of dawn to the greens of the woods to the blue-green waters from which Aphrodite rose. The black rooster is symbolic -- "apparitional", according to Pound's own comments -- its cry is a warning of the destructive nature of love and passion, just as Paris's love for Helen brought Troy to its knees.
 
 ### Stanza 2
 > And by the curved, carved foot of the couch, <br>
