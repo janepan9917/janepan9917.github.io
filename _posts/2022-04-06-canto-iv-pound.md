@@ -27,7 +27,9 @@ We open on the dawn after the fall of Troy, after the Greeks have razed the city
 
 Now, Pound invokes the name of several mythological figures associated with rebuilding or rebirth. "Anaxiforminges" -- literally, "lords of the lyre", or hymns -- refers to Apollo, who helped Poseidon build the walls of Troy with the music of his lyre (Ovid Heroid. xvi. 180). Aurunculeia is a reference to a celebratory wedding song addressed to the bride Vinia Aurunculeia, written by the Roman poet [Catullus' poem 61](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0006%3Apoem%3D61). Cadmus is the founder of Thebes; the "Gold Prows" are  the golden dragons that sat at the figureheads of his ships.
 
-There is a tension between the still-burning ruins of Troy and the figures Pound has chosen to evoke. Apollo both created Troy and later sent a devastating plague upon its people [^apollo]. Cadmus raised the walls of Thebes from the blood-soaked lands of Boeotia [^cadmus] and later led his Thebans in the pillaging of Troy. Given Helen's role in causing the Trojan war, the invocation of a wedding song lauding the beauty of a bride "fair as Venus" is indeed deeply ironic. Regardless of its ambiguous portrayal, there is an clear cyclism or dualism between creation and destruction. (This same idea, applied to life and death, will feature prominently in T.S. Eliot's _The Wasteland_). 
+There is a tension between the still-burning ruins of Troy and the figures Pound has chosen to evoke. Apollo both created Troy and later sent a devastating plague upon its people [^apollo]. Cadmus raised the walls of Thebes from the blood-soaked lands of Boeotia [^cadmus] and later led his Thebans in the pillaging of Troy. Given Helen's role in causing the Trojan war, the invocation of a wedding song lauding the beauty of a bride "fair as Venus" is indeed deeply ironic. Regardless of its ambiguous portrayal, there is an clear cyclism (or dualism?) between creation and destruction [^wasteland]. 
+
+[^wasteland]: This same idea, applied to life and death, will feature prominently in T.S. Eliot's _The Wasteland_. 
 
 [^apollo]: Having insulted Zeus, Apollo and Poseidon were ordered to disguise themselves as mortals and work for King Laomedon for a year, during which they built Troy. But Laomdeon was ungrateful and threatened to cut off their ears (and some other nasty stuff). As punishment, [Apollo sent a plague upon Troy, and Poseidon a sea monster.](https://www.jstor.org/stable/539834)
 
@@ -51,10 +53,10 @@ In any case, we flash to another dawn, of a distinctly different character:
 > Beat, beat, whirr, thud, in the soft turf <br>
 > &emsp; &emsp; under the apple trees, <br>
 > Choros nympharum, goat-foot, with the pale foot alternate; <br>
+
+In contrast with the red-orange, fire-tinged dawn of Troy, we are now greeted with "green cool light"; the haze of smoke has been replaced with the blur of dew. The static image of ruined Troy has been replaced with the fluid dance of nymphs ("_choros nympharum_") and satyrs ("_goat-foot_"). This motion begins softly, with the drifting of the dawn, then acclerates ("_blurs_", "_pale ankles moving_") into onomatopoeia.
+
 > Crescent of blue-shot waters, green-gold in the shallows, <br>
-
-
-
 > A black cock crows in the sea-foam; <br>
 
 
