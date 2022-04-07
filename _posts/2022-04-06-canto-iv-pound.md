@@ -98,7 +98,93 @@ Water will play a critical role in the rest of the poem; here is our first intro
 > Vidal. &emsp; It is old Vidal speaking, <br>
 > &emsp; stumbling along in the wood, <br>
 > Not a patch, not a lost shimmer of sunlight, <br>
-  &emsp; &emsp; &emsp; &emsp; the pale hair of the goddess. <br>
+>  &emsp; &emsp; &emsp; &emsp; the pale hair of the goddess. <br>
+
+### Stanza 3
+> The dogs leap on Actæon, <br>
+> &emsp; &emsp; &emsp; &emsp; “Hither, hither, Actæon,” <br>
+> Spotted stag of the wood; <br>
+> Gold, gold, a sheaf of hair, <br>
+> &emsp; &emsp; &emsp; &emsp; Thick like a wheat swath, <br>
+> Blaze, blaze in the sun, <br>
+> &emsp; &emsp; &emsp; &emsp; The dogs leap on Actæon. <br>
+> Stumbling, stumbling along in the wood, <br>
+> Muttering, muttering Ovid: <br>
+> &emsp; &emsp; &emsp; &emsp; “Pergusa… pool… pool… Gargaphia, <br>
+> “Pool… pool of Salmacis.” <br>
+> &emsp; &emsp; &emsp; &emsp; The empty armour shakes as the cygnet moves. <br>
+                
+### Stanza 4
+> Thus the light rains, thus pours, e lo soleills plovil <br>
+> The liquid and rushing crystal <br>
+> &emsp; &emsp; &emsp; &emsp; beneath the knees of the gods. <br>
+> Ply over ply, thin glitter of water; <br>
+> Brook film bearing white petals. <br>
+> The pine at Takasago <br>
+> &emsp; &emsp; &emsp; &emsp; grows with the pine of Isé! <br>
+> The water whirls up the bright pale sand in the spring’s mouth <br>
+> “Behold the Tree of the Visages!” <br>
+> Forked branch-tips, flaming as if with lotus. <br>
+> &emsp; &emsp; &emsp; &emsp; Ply over ply <br>
+> The shallow eddying fluid, <br>
+> &emsp; &emsp; &emsp; &emsp; beneath the knees of the gods. <br>
+
+### Stanza 5
+> Torches melt in the glare <br>
+> &emsp; &emsp; &emsp; &emsp; set flame of the corner cook-stall, <br>
+> Blue agate casing the sky (as at Gourdon that time) <br>
+> &emsp; &emsp; &emsp; &emsp; the sputter of resin, <br>
+> Saffron sandal so petals the narrow foot: Hymenæus Io! <br>
+> &emsp; &emsp; &emsp; &emsp; Hymen, Io Hymenæe! Aurunculeia! <br>
+> One scarlet flower is cast on the blanch-white stone. <br>
+
+
+### Stanza 6
+> &emsp; &emsp; &emsp; &emsp; And So-Gyoku, saying: <br>
+> “This wind, sire, is the king’s wind, <br>
+> &emsp; &emsp; &emsp; &emsp; This wind is wind of the palace, <br>
+> Shaking imperial water-jets.” <br>
+> &emsp; &emsp; &emsp; &emsp; And Hsiang, opening his collar: <br>
+> “This wind roars in the earth’s bag, <br>
+> &emsp; &emsp; &emsp; &emsp; it lays the water with rushes.” <br>
+> No wind is the king’s wind. <br>
+> &emsp; &emsp; &emsp; &emsp; Let every cow keep her calf. <br>
+> “This wind is held in gauze curtains…” <br>
+> &emsp; &emsp; &emsp; &emsp; &emsp; No wind is the king’s… <br>
+
+### Stanza 7
+> The camel drivers sit in the turn of the stairs, <br>
+> &emsp; &emsp; &emsp; &emsp; Look down on Ecbatan of plotted streets, <br>
+> “Danaë! Danaë! <br>
+> &emsp; &emsp; &emsp; What wind is the king’s?” <br>
+> Smoke hangs on the stream, <br>
+> The peach-trees shed bright leaves in the water, <br>
+> Sound drifts in the evening haze, <br>
+> &emsp; &emsp; &emsp; &emsp; The bark scrapes at the ford, <br>
+> Gilt rafters above black water, <br>
+> &emsp; &emsp; &emsp; &emsp; Three steps in an open field, <br>
+> Gray stone-posts leading… <br>
+
+
+### Stanza 8
+> Père Henri Jacques would speak with the Sennin, on Rokku, <br>
+> Mount Rokku between the rock and the cedars, <br>
+> Polhonac, <br>
+> As Gyges on Thracian platter set the feast, <br>
+> Cabestan, Tereus, <br>
+> &emsp; &emsp; &emsp; &emsp; It is Cabestan’s heart in the dish, <br>
+> Vidal, or Ecbatan, upon the gilded tower in Ecbatan <br>
+> Lay the god’s bride, lay ever, waiting the golden rain. <br>
+> By Garonne. &emsp; &emsp; “Saave!” <br>
+> The Garonne is thick like paint, <br>
+> Procession,—“Et sa’ave, sa’ave, sa’ave Regina!”— <br>
+> Moves like a worm, in the crowd. <br>
+> Adige, thin film of images, <br>
+> Across the Adige, by Stefano, Madonna in hortulo, <br>
+> As Cavalcanti had seen her. <br>
+> &emsp; &emsp; &emsp; &emsp; The Centaur’s heel plants in the earth loam. <br>
+> And we sit here… <br>
+> &emsp; &emsp; &emsp; &emsp; there in the arena… <br>
 
 > <details>
 > <summary>Palace in smoky light, </summary>
