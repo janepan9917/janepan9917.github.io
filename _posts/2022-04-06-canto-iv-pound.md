@@ -27,19 +27,34 @@ We open on the dawn after the fall of Troy, after the Greeks have razed the city
 
 Now, Pound invokes the name of several mythological figures associated with rebuilding or rebirth. "Anaxiforminges" -- literally, "lords of the lyre", or hymns -- refers to Apollo, who helped Poseidon build the walls of Troy with the music of his lyre (Ovid Heroid. xvi. 180). Aurunculeia is a reference to a celebratory wedding song addressed to the bride Vinia Aurunculeia, written by the Roman poet [Catullus' poem 61](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0006%3Apoem%3D61). Cadmus is the founder of Thebes; the "Gold Prows" are  the golden dragons that sat at the figureheads of his ships.
 
-There is a tension between the still-burning ruins of Troy and the figures Pound has chosen to evoke. Apollo both created Troy and later sent a devastating plague upon its people. Cadmus raised the walls of Thebes from the blood-soaked lands of Boeotia and later led his Thebans in the pillaging of Troy. Given Helen's role in causing the Trojan war, the invocation of a wedding song lauding the beauty of a bride "fair as Venus" is indeed deeply ironic. Regardless of its ambiguous portrayal, there is an clear cyclism or dualism between life and death or construction and destruction. (This same idea will feature prominently in T.S. Eliot's _The Wasteland_). 
+There is a tension between the still-burning ruins of Troy and the figures Pound has chosen to evoke. Apollo both created Troy and later sent a devastating plague upon its people [^apollo]. Cadmus raised the walls of Thebes from the blood-soaked lands of Boeotia [^cadmus] and later led his Thebans in the pillaging of Troy. Given Helen's role in causing the Trojan war, the invocation of a wedding song lauding the beauty of a bride "fair as Venus" is indeed deeply ironic. Regardless of its ambiguous portrayal, there is an clear cyclism or dualism between creation and destruction. (This same idea, applied to life and death, will feature prominently in T.S. Eliot's _The Wasteland_). 
 
-I'm honestly not sure what the silver mirrors are; perhaps the shields of the Greek soldiers, reflecting the crumbling Trojan stones and sunlight? (I'm unconvinced by this, since I'm pretty sure the Ancient Greek [shields](https://en.wikipedia.org/wiki/Aspis) were made of wood, and if they were coated with a metal, it would have been bronze, not brittle iron.) In any case, we flash to another dawn, of a distinctly different character:
+[^apollo]: Having insulted Zeus, Apollo and Poseidon were ordered to disguise themselves as mortals and work for King Laomedon for a year, during which they built Troy. But Laomdeon was ungrateful and threatened to cut off their ears (and some other nasty stuff). As punishment, [Apollo sent a plague upon Troy, and Poseidon a sea monster.](https://www.jstor.org/stable/539834)
+
+[^cadmus]: "So, having lived the space allotted them,
+the youthful warriors perished as they smote
+the earth (their blood-stained mother) with their breasts:
+and only five of all the troop remained;
+of whom Echion, by Minerva warned,
+called on his brothers to give up the fight,
+and cast his arms away in pledge of faith.—
+when Cadmus, exiled from Sidonia's gates,
+builded the city by Apollo named,
+these five were trusted comrades in his toil." [Ovid, Metamorphoses, Book III](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0028%3Abook%3D3%3Acard%3D95)
+
+I'm honestly not sure what the silver mirrors are; perhaps the shields of the Greek soldiers, reflecting the crumbling Trojan stones and sunlight? I'm unconvinced by this, since I'm pretty sure the Ancient Greek [shields](https://en.wikipedia.org/wiki/Aspis) were made of wood, and if they were coated with a metal, it would have been bronze, not brittle iron. 
+
+In any case, we flash to another dawn, of a distinctly different character:
 
 > Dawn, to our waking, drifts in the green cool light; <br>
 > Dew-haze blurs, in the grass, pale ankles moving. <br>
-
-
-
 > Beat, beat, whirr, thud, in the soft turf <br>
 > &emsp; &emsp; under the apple trees, <br>
 > Choros nympharum, goat-foot, with the pale foot alternate; <br>
 > Crescent of blue-shot waters, green-gold in the shallows, <br>
+
+
+
 > A black cock crows in the sea-foam; <br>
 
 
