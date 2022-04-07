@@ -23,16 +23,19 @@ We open on the dawn after the fall of Troy, after the Greeks have razed the city
 > Troy but a heap of smouldering boundary stones,              
 > ANAXIFORMINGES!  Aurunculeia! <br>
 > Hear me.&nbsp; &nbsp; Cadmus of Golden Prows! <br>
+> The silver mirrors catch the bright stones and flare, <br>
 
 Now, Pound invokes the name of several mythological figures associated with rebuilding or rebirth. "Anaxiforminges" -- literally, "lords of the lyre", or hymns -- refers to Apollo, who helped Poseidon build the walls of Troy with the music of his lyre (Ovid Heroid. xvi. 180). Aurunculeia is a reference to a celebratory wedding song addressed to the bride Vinia Aurunculeia, written by the Roman poet [Catullus' poem 61](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0006%3Apoem%3D61). Cadmus is the founder of Thebes; the "Gold Prows" are  the golden dragons that sat at the figureheads of his ships.
 
-There is a tension between the still-burning ruins of Troy and the figures Pound has chosen to evoke. Apollo both created Troy and later sent a devastating plague upon its people. Cadmus raised the walls of Thebes from the blood-soaked lands of Boeotia and later led his Thebans in the pillaging of Troy. Given Helen's role in causing the Trojan war, the invocation of a wedding song lauding the beauty of a bride "fair as Venus" is indeed deeply ironic.
+There is a tension between the still-burning ruins of Troy and the figures Pound has chosen to evoke. Apollo both created Troy and later sent a devastating plague upon its people. Cadmus raised the walls of Thebes from the blood-soaked lands of Boeotia and later led his Thebans in the pillaging of Troy. Given Helen's role in causing the Trojan war, the invocation of a wedding song lauding the beauty of a bride "fair as Venus" is indeed deeply ironic. Regardless of its ambiguous portrayal, there is an clear cyclism or dualism between life and death or construction and destruction. (This same idea will feature prominently in T.S. Eliot's _The Wasteland_). 
 
-Regardless of its ambiguous portrayal, there is an clear cyclism or dualism between life and death or construction and destruction. (This same idea will feature prominently in T.S. Eliot's _The Wasteland_). Now we will flash to another dawn of a distinctly different character.
+I'm honestly not sure what the silver mirrors are; perhaps the shields of the Greek soldiers, reflecting the crumbling Trojan stones and sunlight? (I'm unconvinced by this, since I'm pretty sure the Ancient Greek [shields](https://en.wikipedia.org/wiki/Aspis) were made of wood, and if they were coated with a metal, it would have been bronze, not brittle iron.) In any case, we flash to another dawn, of a distinctly different character:
 
-> The silver mirrors catch the bright stones and flare, <br>
 > Dawn, to our waking, drifts in the green cool light; <br>
 > Dew-haze blurs, in the grass, pale ankles moving. <br>
+
+
+
 > Beat, beat, whirr, thud, in the soft turf <br>
 > &emsp; &emsp; under the apple trees, <br>
 > Choros nympharum, goat-foot, with the pale foot alternate; <br>
