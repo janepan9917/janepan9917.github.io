@@ -45,7 +45,7 @@ We flash to another dawn, of a distinctly different character:
 > &emsp; &emsp; under the apple trees, <br>
 > Choros nympharum, goat-foot, with the pale foot alternate; <br>
 
-Silver pools of water In contrast with the red-orange, fire-tinged dawn of Troy, we are now greeted with "green cool light"; the haze of smoke has been replaced with the blur of dew. The static image of ruined Troy is succeeded by the fluid dance of nymphs ("_choros nympharum_") and satyrs ("_goat-foot_");  it seems as though they are dancing in a circle ("_goat-foot, with the pale foot alternate_"). This motion begins softly, with the drifting of the dawn, then accelerates ("_blurs_", "_pale ankles moving_") into onomatopoeia. In this hypernatural forest -- an apple orchard, which was sacred to Aphrodite -- we find an order and clarity that clashes with the war-torn citadel of Troy. 
+Silver pools of water reflect the light of dawn, and the resulting flare of light transports us to a sacred grove. In contrast with the red-orange, fire-tinged dawn of Troy, we are now greeted with "green cool light"; the haze of smoke has been replaced with the blur of dew. The static image of ruined Troy is succeeded by the fluid dance of nymphs ("_choros nympharum_") and satyrs ("_goat-foot_");  it seems as though they are dancing in a circle ("_goat-foot, with the pale foot alternate_"). This motion begins softly, with the drifting of the dawn, then accelerates ("_blurs_", "_pale ankles moving_") into onomatopoeia. In this hypernatural forest -- an apple orchard, which was sacred to Aphrodite -- we find an order and clarity that clashes with the war-torn citadel of Troy. 
 
 > Crescent of blue-shot waters, green-gold in the shallows, <br>
 > A black cock crows in the sea-foam; <br>
