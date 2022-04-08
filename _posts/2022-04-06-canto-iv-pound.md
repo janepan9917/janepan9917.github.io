@@ -55,26 +55,51 @@ In contrast with the red-orange, fire-tinged dawn of Troy, we are now greeted wi
 Water will play a critical role in the rest of the poem; here is our first introduction to it. Notice the emphasis on color. We have shifted from the fiery-reds of dawn to the greens of the woods to the blue-green waters from which Aphrodite rose. The black rooster is symbolic -- "apparitional", according to Pound's own comments -- its cry is a warning of the destructive nature of love and passion, just as Paris's love for Helen brought Troy to its knees.
 
 ### Stanza 2
+
+The next stanza entangles two myths of the same flavor (no pun intended). 
+
+The first is that of [King Tereus and Queen Procne](http://tems.umn.edu/pdf/OvidPhilomela-1.pdf). Tereus rapes Procne's sister Philomela and cuts out her tongue so she cannot speak; nonetheless, Philomela is able to send Procne a tapestry on which she has woven a visual history of Tereus's crime. As revenge, Procne cooks her son Itys into a meal and tricks Tereus into eating it. As Procne and Philomela flee from an enraged Tereus, they are transformed into birds by the pitying gods -- Procne becomes a swallow and Philomela a nightingale. [^wasteland2]  
+
+The second is that of [Count Roussillon and his wife Seremonda](http://ezrapoundcantos.org/index.php/a-draft-of-xvi-cantos-overview/canto-iv/iv-sources/146-cabestan). After learning of her affair with the troubadour Cabestan, he feeds her the heart of her lover. When Seremonda realizes the truth of her meal, she is struck dumb and blind. Upon recovering her senses, she tells her husband, "you gave me so good a course that I will never eat anything else", and throws herself out the window before the enranged Count can kill her himself.
+
+[^wasteland2]: We will see this myth resurface in _The Wasteland_. Here, however, the emphasis is on Procne and Tereus; Eliot puts a greater weight on Philomela ("_And there the nightingale \ Fills all the desert with inviolable voice..."_)
+
 > And by the curved, carved foot of the couch, <br>
 > &emsp; &emsp;claw-foot and lion head, an old man seated <br>
 > Speaking in the low drone…: <br>
+
+The identity of this "old man" is up to interpretation. Most interpretations take this to be Count Roussillon, who is musing on his murder of Cabestan and Seremonda's ensuing suicide. Others take it to be King Pandion of Athens, mourning his daughters Procne and Philomela.
+
+Now, in the following lines, Pound will superimpose the two aforementioned legends, weaving from myth to myth; the result will be a sort of constructive interference that amplifies the emotional 
+
 >  &emsp; &emsp; &emsp; &emsp;Ityn! <br>
 > Et ter flebiliter, Ityn, Ityn! <br>
+
+"Ityn" is the adjective form of "Itys" (and also sounds uncannily like "eaten"). The second line means "And thrice pitifully, Ityn"[^poem].
+
+[^poem]: A reference to [Horace Odes Book IV Poem xii:5-8] (http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0025%3Abook%3D4%3Apoem%3D12)
+
 > And she went toward the window and cast her down, <br>
 > &emsp; &emsp;“All the while, the while, swallows crying: <br>
 > Ityn! <br>
 > &emsp; &emsp; “It is Cabestan’s heart in the dish.” <br>
 > &emsp; &emsp; “It is Cabestan’s heart in the dish?” <br>
 > &emsp; &emsp; “No other taste shall change this.” <br>
+
+Seremonda casts herself out the window; her fall is attended by the swallows of Procne. We rewind to the moments before her suicide:
+
 > And she went toward the window, <br>
 >  &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;  the slim white stone bar <br>
 > Making a double arch; <br>
 > Firm even fingers held to the firm pale stone; <br>
 > Swung for a moment, <br>
-> &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;  and the wind out of Rhodez <br>
+> &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;  and the wind out of Rhodez[^Rhodez] <br>
 > Caught in the full of her sleeve. <br>
 > &emsp; &emsp; &emsp; &emsp; . . .  the swallows crying: <br>
 > ‘Tis.  ‘Tis.  ‘Ytis! <br>
+
+[^Rhodez]: A region of southern France.
+
 > &emsp; &emsp; &emsp; &emsp; Actæon… <br>
 > &emsp; &emsp; &emsp; &emsp; and a valley, <br>
 > The valley is thick with leaves, with leaves, the trees, <br>
