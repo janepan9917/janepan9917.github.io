@@ -23,7 +23,6 @@ We open on the dawn following the fall of Troy, after the Greeks have razed the 
 > Troy but a heap of smouldering boundary stones,              
 > ANAXIFORMINGES!  Aurunculeia! <br>
 > Hear me.&nbsp; &nbsp; Cadmus of Golden Prows! <br>
-> The silver mirrors catch the bright stones and flare, <br>
 
 Now, Pound invokes the name of several mythological figures associated with rebuilding or rebirth. "Anaxiforminges" -- literally, "lords of the lyre", or hymns -- refers to Apollo, who helped Poseidon build the walls of Troy with the music of his lyre[^lyre]. "Aurunculeia" refers to Vinia Aurunculeia, the bride for whom the Roman poet Catallus wrote a [celebratory wedding song](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0006%3Apoem%3D61). Cadmus is the founder of Thebes; the "Gold Prows" are  the golden dragons that sat at the figureheads of his ships.
 
@@ -37,22 +36,21 @@ There is a tension between the still-burning ruins of Troy and the figures Pound
 
 [^cadmus]: "So, having lived the space allotted them, the youthful warriors perished as they smote the earth (their blood-stained mother) with their breasts: and only five of all the troop remained; of whom Echion, by Minerva warned, called on his brothers to give up the fight, and cast his arms away in pledge of faith — when Cadmus, exiled from Sidonia's gates, builded the city by Apollo named, these five were trusted comrades in his toil." [Ovid, Metamorphoses, Book III](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0028%3Abook%3D3%3Acard%3D95)
 
-I'm honestly not sure what the silver mirrors are; perhaps the shields of the Greek soldiers, reflecting the crumbling Trojan stones and sunlight? I'm unconvinced by this, since I'm pretty sure the Ancient Greek [shields](https://en.wikipedia.org/wiki/Aspis) were made of wood, and if they were coated with a metal, it would have been bronze, not brittle iron. 
+We flash to another dawn, of a distinctly different character:
 
-In any case, we flash to another dawn, of a distinctly different character:
-
+> The silver mirrors catch the bright stones and flare, <br>
 > Dawn, to our waking, drifts in the green cool light; <br>
 > Dew-haze blurs, in the grass, pale ankles moving. <br>
 > Beat, beat, whirr, thud, in the soft turf <br>
 > &emsp; &emsp; under the apple trees, <br>
 > Choros nympharum, goat-foot, with the pale foot alternate; <br>
 
-In contrast with the red-orange, fire-tinged dawn of Troy, we are now greeted with "green cool light"; the haze of smoke has been replaced with the blur of dew. The static image of ruined Troy is succeeded by the fluid dance of nymphs ("_choros nympharum_") and satyrs ("_goat-foot_"). This motion begins softly, with the drifting of the dawn, then accelerates ("_blurs_", "_pale ankles moving_") into onomatopoeia.
+Silver pools of water In contrast with the red-orange, fire-tinged dawn of Troy, we are now greeted with "green cool light"; the haze of smoke has been replaced with the blur of dew. The static image of ruined Troy is succeeded by the fluid dance of nymphs ("_choros nympharum_") and satyrs ("_goat-foot_");  it seems as though they are dancing in a circle ("_goat-foot, with the pale foot alternate_"). This motion begins softly, with the drifting of the dawn, then accelerates ("_blurs_", "_pale ankles moving_") into onomatopoeia. In this hypernatural forest -- an apple orchard, which was sacred to Aphrodite -- we find an order and clarity that clashes with the war-torn citadel of Troy. 
 
 > Crescent of blue-shot waters, green-gold in the shallows, <br>
 > A black cock crows in the sea-foam; <br>
 
-Water will play a critical role in the rest of the poem; here is our first introduction to it. Notice the emphasis on color. We have shifted from the fiery-reds of dawn to the greens of the woods to the blue-green waters from which Aphrodite rose. The black rooster is symbolic -- "apparitional", according to Pound's own comments -- its cry is a warning of the destructive nature of love and passion, just as Paris's love for Helen brought Troy to its knees.
+Water will play a critical role in the rest of the poem; here is our first introduction to it. Notice the emphasis on color. We have shifted from the fiery-reds of dawn to the greens of the woods to the blue-green waters from which Aphrodite rose. The black rooster, which is also sacred to Apollo, is symbolic ("apparitional", according to Pound's own comments). Its cry is a warning of the destructive nature of love and passion, just as Paris's love for Helen brought Troy to its knees.
 
 ### Stanza 2
 
@@ -68,14 +66,14 @@ The second is that of [Count Roussillon and his wife Seremonda](http://ezrapound
 > &emsp; &emsp;claw-foot and lion head, an old man seated <br>
 > Speaking in the low drone…: <br>
 
-The identity of this "old man" is up to interpretation. Most interpretations take this to be Count Roussillon, who is musing on his murder of Cabestan and Seremonda's ensuing suicide. Others take it to be King Pandion of Athens, mourning his daughters Procne and Philomela.
+The identity of the "_old man_" is up to interpretation. Some take him to be Count Roussillon, who is musing on his murder of Cabestan and Seremonda's ensuing suicide. Others take him to be King Pandion of Athens, mourning his daughters Procne and Philomela.
 
-Now, in the following lines, Pound will superimpose the two aforementioned legends, weaving from myth to myth; the result will be a sort of constructive interference that amplifies the emotional 
+<!-- Now, in the following lines, Pound will superimpose the two aforementioned legends, weaving from myth to myth; the result will be a sort of constructive interference that amplifies the emotional  -->
 
 >  &emsp; &emsp; &emsp; &emsp;Ityn! <br>
 > Et ter flebiliter, Ityn, Ityn! <br>
 
-"Ityn" is the adjective form of "Itys" (and also sounds uncannily like "eaten"). The second line means "And thrice pitifully, Ityn"[^poem].
+"_Ityn_" is the adjective form of "Itys" (and also sounds uncannily like "eaten"). The second line means "And thrice pitifully, Ityn"[^poem].
 
 [^poem]: A reference to [Horace Odes Book IV Poem xii:5-8] (http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0025%3Abook%3D4%3Apoem%3D12)
 
