@@ -71,12 +71,7 @@ The identity of the "_old man_" is up to interpretation. Some take him to be Cou
 <!-- Now, in the following lines, Pound will superimpose the two aforementioned legends, weaving from myth to myth; the result will be a sort of constructive interference that amplifies the emotional  -->
 
 >  &emsp; &emsp; &emsp; &emsp;Ityn! <br>
-> Et ter flebiliter, Ityn, Ityn! <br>
-
-"_Ityn_" is the adjective form of "Itys" (and also sounds uncannily like "eaten"). The second line means "And thrice pitifully, Ityn"[^poem].
-
-[^poem]: A reference to [Horace Odes Book IV Poem xii:5-8] (http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0025%3Abook%3D4%3Apoem%3D12)
-
+> Et ter flebiliter, Ityn, Ityn![^poem] <br>
 > And she went toward the window and cast her down, <br>
 > &emsp; &emsp;“All the while, the while, swallows crying: <br>
 > Ityn! <br>
@@ -84,7 +79,9 @@ The identity of the "_old man_" is up to interpretation. Some take him to be Cou
 > &emsp; &emsp; “It is Cabestan’s heart in the dish?” <br>
 > &emsp; &emsp; “No other taste shall change this.” <br>
 
-Seremonda casts herself out the window; her fall is attended by the swallows of Procne. We rewind to the moments before her suicide:
+[^poem]: "_And thrice pitifully, Ityn_". A reference to [Horace Odes Book IV Poem xii:5-8](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0025%3Abook%3D4%3Apoem%3D12)
+
+"_Ityn_" is the adjective form of "Itys" (and also sounds uncannily like "eaten"). Seremonda casts herself out the window; her fall is attended by the swallows of Procne. We rewind to the moments before her suicide:
 
 > And she went toward the window, <br>
 >  &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;  the slim white stone bar <br>
