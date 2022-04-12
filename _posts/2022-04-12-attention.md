@@ -41,6 +41,8 @@ Here's the three steps to the attention function:
 
 First, we use some function $$g$$ on the key and query to compute the raw attention scores. Then, we normalize using softmax normalization so that the weights in our linear combination will sum to 1. Finally, we compute the weighted sum across the values.
 
+Since the query gets to "pick" which values get higher weights in the weighted sum, we say the query "attends" to the values.
+
 ### One step deeper
 This is not too bad so far. But how exactly do we pick the queries, keys, and values? It would be very difficult to learn a particular query, key, and value for every possible input vector. Instead, we'll learn weight matrices that we can multiply to any arbitrary input vector. This way, we can compute a query or key or value for any arbitary input vector that could be thrown at our model. 
 
