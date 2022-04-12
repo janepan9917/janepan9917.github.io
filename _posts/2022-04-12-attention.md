@@ -24,11 +24,24 @@ Learning which pieces of the sequence are more related to a particular word (lik
 More formally, given a particular piece of the sequence, attention spits out a linear combination across the information provided by _every other_ piece of the sequence. The weights of this linear combination reduce the impact of the "unimportant" bits of the sequence and increase the impact of the "important" bits. Thus, each piece of the sequence gets a custom linear combination which can be thought of as "selective summarization" of the information in the sequence.
 
 ### The key components of attention
-There are three key players in the attention mechanism: 
+First, some ground rules. We have $$n$$ input vectors: $$\{x_1, ..., x_n\}^{R_{d_x}}$$. Our self-attention layer will map these vectors to $$n$$ output vectors: $$\{y_1, ..., y_n\}^{R_{d_y}}$$. 
 
+There are three key players in the attention mechanism: 
 1. **Query**: $$q \in \mathbb{R}^{d_q}$$
-2. **Keys**: $${k_i} \in \mathbb{R}^{d_k}$$
-3. **Values**: $$\{v_i\} \in \mathbb{R}^{d_v}$$
+2. **Keys**: $$\{k_1, ..., k_n\} \in \mathbb{R}^{d_k}$$
+3. **Values**: $$\{v_1, ..., v_n\} \in \mathbb{R}^{d_v}$$
 
 Broadly, the query asks the model, "I'm looking at this particular token right now. What parts of the sequence are relevant?". Using the query, the keys will be used to compute the **attention scores**, which will determine the weights of the linear combination mentioned above. Then, these weights are used along with the values to calculate the linear combination.
  
+Here's how we calculate that linear combination:
+1. Calculate the **attention scores**: $$s = g(k_i, q)$$
+2. Make the attention scores a probability distribution: $$\alpha = \text{softmax}(s)$$
+3. Take the weighted sum: $$a = \sum^{n}_{i=1} v_i$$
+
+In step 1, we use some function $$g$$ on the key and query to compute the raw attention scores. Then, we normalize using softmax normalization so that the weights in our linear combination will sum to 1. Finally, we compute the weighted sum across the values.
+
+This is not too bad so far. But how exactly do we pick the queries, keys, and values? It would be very difficult to learn a particular query, key, and value for every possible input vector. Instead, we'll learn weight matrices that we can multiply to any arbitrary input vector. This way, we can compute a query or key or value for any arbitary input vector that could be thrown at our model. More formally, given some input vector $$x_i$$:
+
+1. **Query**: $$q_i = Qx_i$$, where $Q \in \mathbb{R}^{d_q \prod d_x}
+2. **Keys**: $$k_i = Kx_i$$, where $$K \in \mathbb{R}^{d_k\prod d_x}$$
+3. **Values**: $$v_i = Vx_i$$, where $$V \in \mathbb{R}^{d_v\prod d_x}$$
