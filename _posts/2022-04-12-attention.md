@@ -48,9 +48,9 @@ This is not too bad so far. But how exactly do we pick the queries, keys, and va
 
 More formally, given some input vector $$x_i$$:
 
-1. **Query**: $$q_i = W^Qx_i$$, where $$W^Q \in \mathbb{R}^{d_q \times d_x}$$
-2. **Key**: $$k_i = W^Kx_i$$, where $$W^K \in \mathbb{R}^{d_k\times d_x}$$
-3. **Value**: $$v_i = W^Vx_i$$, where $$W^V \in \mathbb{R}^{d_v\times d_x}$$
+1. **Query**: $$q_i = W_Qx_i$$, where $$W_Q \in \mathbb{R}^{d_q \times d_x}$$
+2. **Key**: $$k_i = W_Kx_i$$, where $$W_K \in \mathbb{R}^{d_k\times d_x}$$
+3. **Value**: $$v_i = W_Vx_i$$, where $$W_V \in \mathbb{R}^{d_v\times d_x}$$
 
 We also need to pick a good choice of $$g$$. Recall that its inputs are $k_i$ and $q_i$. Since $$g$$ will determine the weights of the linear combination we compute, we should pick a computationally effective way of comparing how similar $k_i$ and $q_i$ are. Transformers usually use **scaled dot product**, where we scale down the dot product of $k_i$ and $q_i$ by $\sqrt{d_k}$ [^scp].
 
@@ -66,16 +66,15 @@ Okay, so we've discussed what happens with a single input vector $x_i$. Now, let
 
 Let's stack the $n$ input vectors into one input matrix $X \in \mathbb{R^{n \times d_x}}$. Then, we can compute all queries, keys, and values as such:
 
-1. **Query matrix**: $$Q = XW^Q$$, where $$Q \in \mathbb{R}^{n \times d_q}$$
-2. **Key matrix**: $$K= XW^K$$, where $$K \in \mathbb{R}^{d_k\times n}$$
-3. **Value matrix**: $$V = XW^V$$, where $$V \in \mathbb{R}^{n\times d_v}$$
+1. **Query matrix**: $$Q = XW_Q$$, where $$Q \in \mathbb{R}^{n \times d_q}$$
+2. **Key matrix**: $$K= XW_K$$, where $$K \in \mathbb{R}^{d_k\times n}$$
+3. **Value matrix**: $$V = XW_V$$, where $$V \in \mathbb{R}^{n\times d_v}$$
 
 This allows us to reduce the attention function to a single, elegant line:
 
 $$
 \begin{aligned} 
-\text{Attention}(K, Q, V) &= \text{softmax}(\frac{QK^T}{\sqrt{d_k})V \\
-wtf
+\text{Attention}(K, Q, V) &= \text{softmax}(\frac{QK^T}{\sqrt{d_k}})V
 \end{aligned}
 $$
 
@@ -95,3 +94,10 @@ a + b &= c \\
 d &= e
 \end{aligned}
 $$
+
+### Attention heads
+An attention function is uniquely defined by a learned $W_Q$, $W_K$, and $W_V$. But why use one set of $W_Q$, $W_K$, and $W_V$ when we could use multiple of them? 
+
+The advantages of using multiple attention heads are very appealing. For starters, by choosing different values of $W_Q$, $W_K$, and $W_V$, we can direct our model to focus on different parts of the input sequence. More importantly, we can reduce the dimensions of the weight matrices, allowing us to compute more attention scores with less computational cost.
+
+We call each unique attention function an **attention head**. Multi-head attention uses multiple attention functions, computes a special linear combination for each head.
