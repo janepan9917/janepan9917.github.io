@@ -51,7 +51,7 @@ More formally, given some input vector $$x_i$$:
 We also need to pick a good choice of $$g$$. Recall that its inputs are $k_i$ and $q_i$. Since $$g$$ will determine the weights of the linear combination we compute, we should pick a computationally effective way of comparing how similar $k_i$ and $q_i$ are. Transformers usually use **scaled dot 
 uct**, where we scale down the dot product of $k_i$ and $q_i$ by $\sqrt{d_k}$ [^scp].
 
-[^scp]: Two notes about scaled dot product: 1) The dot product will require $d_k = d_q$, or the dot product doesn't work. 2) Why do we scale down by $\sqrt{d_k}$? Asssume that each component of $q_i, k_i \in \mathbb{R^{d_k}}$ is i.i.d. with mean 0 and variance 1. Then their dot product has mean 1 and variance $d_k$ (since the sum is computed over $d_k$ components). Scaling down by $\sqrt{d_k}$ reduces the variance down to 1, which is much nicer.
+[^scp]: Two notes about scaled dot product: First, the dot product will require $d_k = d_q$, or the dot product doesn't work. Second, why do we scale down by $\sqrt{d_k}$? Assume that each component of $q_i, k_i \in \mathbb{R^{d_k}}$ is i.i.d. with mean 0 and variance 1. Then their dot product has mean 1 and variance $d_k$ (since the sum is computed over $d_k$ components). Scaling down by $\sqrt{d_k}$ reduces the variance down to 1, which is much nicer.
 
 Now, our attention computation looks like this:
 1. Calculate the attention scores: $$s = \frac{k_i \cdot q_i}{\sqrt{d_k}}$$
@@ -69,6 +69,8 @@ Let's stack the $n$ input vectors into one input matrix $X \in \mathbb{R^{n \tim
 
 This allows us to reduce the attention function to a single, elegant line:
 
-\begin{center}
+$$\begin{center}
   \text{Attention}(K, Q, V) = \text{softmax}(\frac{QK^T}{\sqrt{d_k})V
-\end{center}
+\end{center}$$
+
+
