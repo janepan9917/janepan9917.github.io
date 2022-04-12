@@ -84,3 +84,9 @@ y_j \sim N(\theta_j , \sigma_j^2) \\
 \end{aligned}
 $$
 
+$$
+\begin{aligned}
+a + b &= c \\
+d &= e
+\end{aligned}
+$$
