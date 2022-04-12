@@ -74,4 +74,13 @@ This allows us to reduce the attention function to a single, elegant line:
 
 $$\begin{aligned} \text{Attention}(K, Q, V) &= \text{softmax}(\frac{QK^T}{\sqrt{d_k})V \end{aligned}$$
 
+$$
+\begin{aligned}
+y_j \sim N(\theta_j , \sigma_j^2) \\
+\sigma_j = \nu/\sqrt{n_j}   \\
+\theta = \mu +\tau \times \eta \\
+\eta \sim N(0,1) \\
+\mu + \tau\times\eta = \theta \sim N(\mu , \tau^2)
+\end{aligned}
+$$
 
