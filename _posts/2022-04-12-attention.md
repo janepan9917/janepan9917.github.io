@@ -74,7 +74,8 @@ This allows us to reduce the attention function to a single, elegant line:
 
 $$
 \begin{aligned} 
-\text{Attention}(K, Q, V) &= \text{softmax}(\frac{QK^T}{\sqrt{d_k})V 
+\text{Attention}(K, Q, V) &= \text{softmax}(\frac{QK^T}{\sqrt{d_k})V \\
+wtf
 \end{aligned}
 $$
 
