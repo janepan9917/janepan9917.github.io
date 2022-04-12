@@ -26,6 +26,7 @@ More formally, given a particular piece of the sequence, attention spits out a l
 ## The key components of attention
 First, some ground rules. We have $$n$$ input vectors: $$\{x_1, ..., x_n\} \in \mathbb{R_{d_x}}$$. Our self-attention layer will map these vectors to $$n$$ output vectors: $$\{y_1, ..., y_n\} \in \mathbb{R_{d_y}}$$. 
 
+### Computing attention, simply
 There are three key players in the attention mechanism: 
 1. **Query**: $$q \in \mathbb{R}^{d_q}$$
 2. **Keys**: $$\{k_1, ..., k_n\} \in \mathbb{R}^{d_k}$$
