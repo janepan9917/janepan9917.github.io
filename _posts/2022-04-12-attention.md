@@ -70,8 +70,8 @@ Let's stack the $n$ input vectors into one input matrix $X \in \mathbb{R^{n \tim
 
 This allows us to reduce the attention function to a single, elegant line:
 
-$$\begin{centering}
-  \text{Attention}(K, Q, V) = \text{softmax}(\frac{QK^T}{\sqrt{d_k})V
-\end{centering}$$
+$$\begin{align*}
+  \text{Attention}(K, Q, V) &= \text{softmax}(\frac{QK^T}{\sqrt{d_k})V
+\end{align*}$$
 
 
