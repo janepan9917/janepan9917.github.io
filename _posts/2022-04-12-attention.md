@@ -78,8 +78,8 @@ $$
 \end{aligned}
 $$
 
-### Attention heads
-An attention function is uniquely defined by a learned $W_Q$, $W_K$, and $W_V$. But why use one set of $W_Q$, $W_K$, and $W_V$ when we could use multiple of them? 
+### Multi-head attention.
+An attention function, or **attention head**, is uniquely defined by a learned $W_Q$, $W_K$, and $W_V$. But why use one set of $W_Q$, $W_K$, and $W_V$ when we could use multiple of them? 
 
 The advantages of using multiple attention heads are very appealing. For starters, by choosing different values of $W_Q$, $W_K$, and $W_V$, we can direct our model to focus on different parts of the input sequence. More importantly, we can reduce the dimensions of the weight matrices, allowing us to compute more attention scores with less computational cost.
 
