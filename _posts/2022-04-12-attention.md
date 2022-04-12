@@ -10,12 +10,12 @@ That term you keep seeing in papers without really knowing what it meant.
 ## Introduction
 Though attention as a concept was introduced in the 1990s, ["Attention is All You Need"](https://arxiv.org/abs/1706.03762) revolutionized its usage for machine learning models, particularly in natural language processing. I will try to legibly explain the mechanism of attention and its role in the Transformer architecture.
 
+[Figures forthcoming. Also, not complete yet.]
+
 ## ELI5: What is attention?
 Say we have some sequence, as follows:
 
-"Jane is hungry, and she's really craving pasta from Italy." 
-
-_(Figure to come)_
+> "Jane is hungry, and she's really craving pasta from Italy." 
 
 Intuitively, we can see that there are words that are more closely connected to other words than not. For instance, "hungry" and "Jane" are closely linked because "hungry" is an attribute of how Jane feels. "Jane" and "she's" are also closely related, since "she" is referring to "Jane". So is "pasta" and "Italy", since the pasta is from Italy. Thus, there are certain pieces of this sentence that provide information more relevant to "Jane", and there are other pieces of the sentence that provide information more relevant to "pasta".
 
