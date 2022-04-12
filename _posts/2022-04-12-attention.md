@@ -42,7 +42,7 @@ Here's the three steps to the attention function:
 
 First, we use some function $$g$$ on the key and query to compute the raw attention scores. Then, we normalize using softmax normalization so that the weights in our linear combination will sum to 1. Finally, we compute the weighted sum across the values. We call this weighted sum the **context vector**.
 
-Since the query gets to "pick" which values get higher weights in the weighted sum, we say the query "attends" to the values.
+Since the query gets to "pick" which values get higher weights in the weighted sum, we say the query **attends** to the values.
 
 ### One step deeper
 This is not too bad so far. But how exactly do we pick the queries, keys, and values? It would be very difficult to learn a particular query, key, and value for every possible input vector. Instead, we'll learn weight matrices that we can multiply to any arbitrary input vector. This way, we can compute a query or key or value for any arbitary input vector that could be thrown at our model. 
@@ -60,7 +60,7 @@ We also need to pick a good choice of $$g$$. Recall that its inputs are $k_i$ an
 Now, our attention computation looks like this:
 1. Calculate the attention scores: $$s = \frac{k_i \cdot q_i}{\sqrt{d_k}}$$
 2. Normalize the attention scores: $$\alpha = \text{softmax}(s)$$
-3. Compute the context vector: $$a = \sum^{n}_{i=1} v_i$$
+3. Compute the context vector: $$a = \[ \sum^{n}_{i=1} v_i \]$$
 
 ### Putting it all together
 Okay, so we've discussed what happens with a single input vector $x_i$. Now, let's rewrite everything we've learned so far, but performing this computation across all $n$ input vectors simultaneously.
