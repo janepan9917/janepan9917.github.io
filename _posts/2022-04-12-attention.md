@@ -65,8 +65,8 @@ Okay, so we've discussed what happens with a single input vector $x_i$. Now, let
 Let's stack the $n$ input vectors into one input matrix $X \in \mathbb{R^{n \times d_x}}$. Then, we can compute all queries, keys, and values as such:
 
 1. **Query matrix**: $$Q = XW^Q$$, where $$Q \in \mathbb{R}^{n \times d_q}$$
-2. **Key matrix**: $$K= W^Kx_i$$, where $$K \in \mathbb{R}^{d_k\times n}$$
-3. **Value matrix**: $$V = W^Vx_i$$, where $$V \in \mathbb{R}^{n\times d_v}$$
+2. **Key matrix**: $$K= XW^K$$, where $$K \in \mathbb{R}^{d_k\times n}$$
+3. **Value matrix**: $$V = XW^V$$, where $$V \in \mathbb{R}^{n\times d_v}$$
 
 This allows us to reduce the attention function to a single, elegant line:
 
