@@ -78,26 +78,11 @@ $$
 \end{aligned}
 $$
 
-$$
-\begin{aligned}
-y_j \sim N(\theta_j , \sigma_j^2) \\
-\sigma_j = \nu/\sqrt{n_j}   \\
-\theta = \mu +\tau \times \eta \\
-\eta \sim N(0,1) \\
-\mu + \tau\times\eta = \theta \sim N(\mu , \tau^2)
-\end{aligned}
-$$
-
-$$
-\begin{aligned}
-a + b &= c \\
-d &= e
-\end{aligned}
-$$
-
 ### Attention heads
 An attention function is uniquely defined by a learned $W_Q$, $W_K$, and $W_V$. But why use one set of $W_Q$, $W_K$, and $W_V$ when we could use multiple of them? 
 
 The advantages of using multiple attention heads are very appealing. For starters, by choosing different values of $W_Q$, $W_K$, and $W_V$, we can direct our model to focus on different parts of the input sequence. More importantly, we can reduce the dimensions of the weight matrices, allowing us to compute more attention scores with less computational cost.
 
 We call each unique attention function an **attention head**. Multi-head attention uses multiple attention functions, computes a special linear combination for each head.
+
+[Incomplete.]
