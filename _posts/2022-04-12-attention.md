@@ -10,7 +10,7 @@ That term you keep seeing in papers without really knowing what it meant.
 ## Introduction
 Though attention as a concept was introduced in the 1990s, ["Attention is All You Need"](https://arxiv.org/abs/1706.03762) revolutionized its usage for machine learning models, particularly in natural language processing. I will try to legibly explain the mechanism of attention and its role in the Transformer architecture.
 
-### ELI5: What is attention?
+## ELI5: What is attention?
 Say we have some sequence, as follows:
 
 "Jane is hungry, and she's really craving pasta from Italy." 
@@ -23,23 +23,24 @@ Learning which pieces of the sequence are more related to a particular word (lik
 
 More formally, given a particular piece of the sequence, attention spits out a linear combination across the information provided by _every other_ piece of the sequence. The weights of this linear combination reduce the impact of the "unimportant" bits of the sequence and increase the impact of the "important" bits. Thus, each piece of the sequence gets a custom linear combination which can be thought of as "selective summarization" of the information in the sequence.
 
-### The key components of attention
-First, some ground rules. We have $$n$$ input vectors: $$\{x_1, ..., x_n\}^{R_{d_x}}$$. Our self-attention layer will map these vectors to $$n$$ output vectors: $$\{y_1, ..., y_n\}^{R_{d_y}}$$. 
+## The key components of attention
+First, some ground rules. We have $$n$$ input vectors: $$\{x_1, ..., x_n\} \in \mathbb{R_{d_x}}$$. Our self-attention layer will map these vectors to $$n$$ output vectors: $$\{y_1, ..., y_n\} \in \mathbb{R_{d_y}}$$. 
 
 There are three key players in the attention mechanism: 
 1. **Query**: $$q \in \mathbb{R}^{d_q}$$
 2. **Keys**: $$\{k_1, ..., k_n\} \in \mathbb{R}^{d_k}$$
 3. **Values**: $$\{v_1, ..., v_n\} \in \mathbb{R}^{d_v}$$
 
-Broadly, the query asks the model, "Here's a representation of the token I'm looking at right now. What parts of the sequence are similar to this?". Using the query, the keys will be used to compute the **attention scores**, which will determine the weights of the linear combination mentioned above. Then, these weights are used along with the values to calculate the linear combination.
+Broadly, the query asks the model, "Here's a representation of the token I'm looking at right now. What parts of the sequence are similar to this?" Using the query, the keys will be used to compute the **attention scores**, which will determine the weights of the linear combination mentioned above. Then, these weights are used along with the values to calculate the linear combination.
  
 Here's the three steps to the attention function:
 1. Calculate the attention scores: $$s = g(k_i, q)$$
 2. Make the attention scores a probability distribution: $$\alpha = \text{softmax}(s)$$
 3. Take the weighted sum: $$a = \sum^{n}_{i=1} v_i$$
 
-In step 1, we use some function $$g$$ on the key and query to compute the raw attention scores. Then, we normalize using softmax normalization so that the weights in our linear combination will sum to 1. Finally, we compute the weighted sum across the values.
+First, we use some function $$g$$ on the key and query to compute the raw attention scores. Then, we normalize using softmax normalization so that the weights in our linear combination will sum to 1. Finally, we compute the weighted sum across the values.
 
+### One step deeper
 This is not too bad so far. But how exactly do we pick the queries, keys, and values? It would be very difficult to learn a particular query, key, and value for every possible input vector. Instead, we'll learn weight matrices that we can multiply to any arbitrary input vector. This way, we can compute a query or key or value for any arbitary input vector that could be thrown at our model. 
 
 More formally, given some input vector $$x_i$$:
