@@ -109,4 +109,3 @@ $$
 Y &= AW_0
 \end{aligned} 
 $$
-
