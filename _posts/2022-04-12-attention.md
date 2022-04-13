@@ -88,12 +88,12 @@ $$
 ### Multi-head attention
 An attention function, or **attention head**, is defined by a learned $W_Q$, $W_K$, and $W_V$. But why use one set of $W_Q$, $W_K$, and $W_V$ when we could use multiple? 
 
-**Multi-head attention**, as the name implies, uses multiple attention functions. Each one will compute its own attention; then, we concatenate them to get our final context vector. Assume we have $h$ heads $\{ z_1, ..., z_h \}$ in our multi-head attention block. Then:
+**Multi-head attention**, as the name implies, uses multiple attention functions. Each one will compute its own attention; then, we concatenate them to get our final context vector. Assuming we have $h$ heads $\{ z_1, ..., z_h \}$ in our multi-head attention block:
 
 $$
 \begin{aligned} 
 z_i &= \text{Attention}(K, Q, V) \\
-a_j &= \text{concat((z_1, ..., z_i, ..., z_h)}
+a_j &= \text{concat}((z_1, ..., z_i, ..., z_h))
 \end{aligned}
 $$
 
@@ -104,5 +104,9 @@ Now, we can see that the computational cost of this multihead attention is (more
 ### Finishing touches
 So now we have a bunch of context vectors $A = {a_1, ..., a_n} \in \mathbb{n \times R_{d}}$. In order to get back to the output space, we simply apply a projection matrix $W_O \in  \mathbb{ R_{d} \times d_y}:
 
-$$Y = AW_0$$
+$$
+\begin{aligned} 
+Y &= AW_0
+\end{aligned} 
+$$
 
