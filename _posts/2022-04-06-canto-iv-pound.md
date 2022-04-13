@@ -95,7 +95,11 @@ The identity of the "_old man_" is up to interpretation. Some take him to be Cou
 
 [^Rhodez]: A region of southern France.
 
-Just as the first half of this stanza presents a twinning of two myths, so the second half follows with a second twinning. The first myth recounts the misfortunes of Actaeon, who accidentally glimpsed Artemis and her retinue of nymphs as they bathed in a forested river. Outraged, Artemis changed him into a stag, and he was torn to pieces by his own hunting dogs. The second is a tale of the foolish troubadour [Peire Vidal](http://ezrapoundcantos.org/index.php/a-draft-of-xvi-cantos-overview/canto-iv/iv-sources/142-peire-vidal?start=1), who was so enamored with a lady named the "She-Wolf of Puegnautier" that he donned wolfskins and wandered the forests in her name. Mistaken for an actual wolf, the local shepard sicced their hunting dogs on him. 
+Just as the first half of this stanza presents a twinning of two myths, the second half presents another. 
+
+The first myth recounts the misfortunes of Actaeon, who accidentally glimpsed Artemis and her retinue of nymphs as they bathed in a forested river. Outraged, Artemis changed him into a stag, and he was torn to pieces by his own hunting dogs. 
+
+The second is a tale of the foolish troubadour [Peire Vidal](http://ezrapoundcantos.org/index.php/a-draft-of-xvi-cantos-overview/canto-iv/iv-sources/142-peire-vidal?start=1), who was so enamored with a lady named the "She-Wolf of Puegnautier" that he donned wolfskins and wandered the forests in her name. Mistaken for an actual wolf, the local shepard sicced their hunting dogs on him. 
 
 > &emsp; &emsp; &emsp; &emsp; Actæon… <br>
 > &emsp; &emsp; &emsp; &emsp; and a valley, <br>
@@ -104,6 +108,8 @@ Just as the first half of this stanza presents a twinning of two myths, so the s
 > Like a fish-scale roof, <br>
 > &emsp; &emsp; &emsp; &emsp; Like the church roof in Poictiers[^poitiers] <br>
 > If it were gold. <br>
+
+This half of the stanza, along with the following stanza, appear to be narrated by Vidal as he is seemingly chased by the hounds. Frantic and exhausted, he recalls Ovid's rendition of the myth of Actaeon in harried fragments. Now, his mind snaps from the sun-dazzled canopy of the trees to the waters in which Artemis and her huntresses bathe.
 
 [^poitiers]: Perhaps the [Poitiers Cathedral](https://en.wikipedia.org/wiki/Poitiers_Cathedral)?
 
@@ -119,6 +125,9 @@ Just as the first half of this stanza presents a twinning of two myths, so the s
 > &emsp; &emsp; &emsp; &emsp; Shadow’d, o’ershadow’d <br>
 > Ivory dipping in silver, <br>
 > Not a splotch, not a lost shatter of sunlight. <br>
+
+It is said that, upon perceiving the intruder, Artemis' nymphs immediately gathered around her so as to shield her modesty from Actaeon. Thus, all he could see was Artemis's hair.
+
 > Then Actæon: Vidal, <br>
 > Vidal. &emsp; It is old Vidal speaking, <br>
 > &emsp; stumbling along in the wood, <br>
