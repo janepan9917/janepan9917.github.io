@@ -93,7 +93,7 @@ An attention function, or **attention head**, is defined by a learned $W_Q$, $W_
 $$
 \begin{aligned} 
 z_i &= \text{Attention}(K, Q, V) \\
-a_j &= \text{concat}((z_1, ..., z_i, ..., z_h))
+a_j &= \text{concat}(z_1, ..., z_i, ..., z_h)
 \end{aligned}
 $$
 
