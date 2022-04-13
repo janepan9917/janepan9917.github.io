@@ -15,6 +15,11 @@ I've had this poem bookmarked for about two years now, yet never got past the fi
 
 I hate to chop up the poem into bits -- it feels a bit like spoon-feeding the reader, and it disrupts the flow of the poem -- but I spent two hours trying to figure out how to annotate line-by-line in markdown, to no avail. You can find the full, uninterrupted poem [here](https://www.poetryfoundation.org/poems/54316/canto-iv).
 
+### Major Themes
+* Metamorphosis and ambiguity
+* Divine order of nature vs. chaos of human civilization
+* Cyclism of destruction and creation, and this cycle perpetuated by passion/love
+
 ### Stanza 1
 
 We open on the dawn following the fall of Troy, after the Greeks have razed the city from the inside out:
@@ -53,8 +58,7 @@ Silver pools of water reflect the light of dawn, and the resulting flare of ligh
 Water will play a critical role in the rest of the poem; here is our first introduction to it. Notice the emphasis on color. We have shifted from the fiery-reds of dawn to the greens of the woods to the blue-green waters from which Aphrodite rose. The black rooster, which is also sacred to Apollo, is symbolic ("apparitional", according to Pound's own comments). Its cry is a warning of the destructive nature of love and passion, just as Paris's love for Helen brought Troy to its knees.
 
 ### Stanza 2
-
-The next stanza entangles two myths of the same flavor (no pun intended). 
+We start by entangling two myths of the same flavor (no pun intended). 
 
 The first is that of [King Tereus and Queen Procne](http://tems.umn.edu/pdf/OvidPhilomela-1.pdf). Tereus rapes Procne's sister Philomela and cuts out her tongue so she cannot speak; nonetheless, Philomela is able to send Procne a tapestry on which she has woven a visual history of Tereus's crime. As revenge, Procne cooks her son Itys into a meal and tricks Tereus into eating it. As Procne and Philomela flee from an enraged Tereus, they are transformed into birds by the pitying gods -- Procne becomes a swallow and Philomela a nightingale. [^wasteland2]  
 
@@ -66,7 +70,9 @@ The second is that of [Count Roussillon and his wife Seremonda](http://ezrapound
 > &emsp; &emsp;claw-foot and lion head, an old man seated <br>
 > Speaking in the low drone…: <br>
 
-The identity of the "_old man_" is up to interpretation. Some take him to be Count Roussillon, who is musing on his murder of Cabestan and Seremonda's ensuing suicide. Others take him to be King Pandion of Athens, mourning his daughters Procne and Philomela.
+The identity of the old man is up to interpretation [^guy]. Some take him to be Count Roussillon, who is musing on his murder of Cabestan and Seremonda's ensuing suicide. Others take him to be King Pandion of Athens, mourning his daughters Procne and Philomela.
+
+[^guy]: Guy Davenport argues that the old man is Vidal, who we will meet in the coming paragraphs.
 
 <!-- Now, in the following lines, Pound will superimpose the two aforementioned legends, weaving from myth to myth; the result will be a sort of constructive interference that amplifies the emotional  -->
 
@@ -152,15 +158,17 @@ The death of Actaeon, which seem to foretell Vidal's fate, shakes the last vesti
 > &emsp; &emsp; &emsp; &emsp; “Pergusa… pool… pool… Gargaphia, <br>
 > “Pool… pool of Salmacis.” <br>
 
-Vidal exits by citing three bodies of water, all closely related to myths involving irresistable lust. Pergusa is a lake close to where Hades abducted Persephone [^lake]. Gargaphia is the valley where Artemis and her nymphs bathed [^valley]. Salmacis was a Naiad, a nymph who presided over a particular pool of springwater. When the handsome youth Hermaphroditus visited her pool, she fell in love at first sight; despite his rejections, she forced herself upon him and prayed to the gods to let them stay together forever. The gods answered her by fusing them together into one being with both male and female parts.[^herm]
+Vidal exits by citing three bodies of water, all closely related to myths involving irresistable lust. Pergusa is a lake close to where Hades abducted Persephone [^lake]. Gargaphia is the valley of the waters where Artemis and her nymphs bathed [^valley]. Salmacis was the nymph of a pool where she fell in love with Hermaphroditus [^herm]. 
 
 [^lake]: Ovid Metamorphoses V 375-84
 [^valley]: Ovid Metamorphoses III: 163-177
-[^herm]: This is indeed the source of the term "hermaphrodite". Ovid's account [here](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0028%3Abook%3D4%3Acard%3D271).
+[^herm]: [Salmacis](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0028%3Abook%3D4%3Acard%3D271) was a Naiad, a nymph who presided over a particular pool of springwater. When the handsome youth Hermaphroditus visited her pool, she fell in love at first sight; despite his rejections, she forced herself upon him and prayed to the gods to let them stay together forever. The gods answered her by fusing them together into one being with both male and female parts.This is indeed the source of the term "hermaphrodite". 
 
 > &emsp; &emsp; &emsp; &emsp; The empty armour shakes as the cygnet moves. <br>
 
-We conclude the stanza with the tale of Achillus and Cygnus, the son of Poseidon. Though Cygnus was blessed with invulnerability to weapons, Achilles beat him bloody with his bare hands and strangled him with his own helmet. Eager to strip Cygnus of his armor, Achilles ripped the helmet off, but found the armor empty, and Cygnus transformed into a swan by Poseidon [^swan].
+We conclude the stanza with the transformation of Cygnus [^swan].
+
+[^swan]: This line refers to the tale of Achillus and Cygnus, the son of Poseidon. Though Cygnus was blessed with invulnerability to weapons, Achilles beat him bloody with his bare hands and strangled him with his own helmet. Eager to strip Cygnus of his armor, Achilles ripped the helmet off, but found the armor empty, and Cygnus transformed into a swan by Poseidon [^swan].
 
 [^swan]: [Metamorphoses 12: 64-145](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0028%3Abook%3D12%3Acard%3D64)
 
@@ -236,27 +244,10 @@ We conclude the stanza with the tale of Achillus and Cygnus, the son of Poseidon
 > And we sit here… <br>
 > &emsp; &emsp; &emsp; &emsp; there in the arena… <br>
 
-> <details>
-> <summary>Palace in smoky light, </summary>
-> 
-> content body (support **markdown** syntax ~~hmm~~)
-> 
-> ```
->   blha bah b lah
-> ```
-> 
-> </details>
->
-><details>
-><summary> Troy but a heap of smouldering boundary stones,</summary>
->  
-> Troy
->  
-></details>
 
-<details>
+<!-- <details>
 <summary> Troy but a heap of smouldering boundary stones, </summary>
 ~~~
 summary
 ~~~
-</details>
+</details> -->
