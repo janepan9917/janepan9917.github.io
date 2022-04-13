@@ -126,7 +126,7 @@ This half of the stanza, along with the following stanza, appear to be narrated 
 > Ivory dipping in silver, <br>
 > Not a splotch, not a lost shatter of sunlight. <br>
 
-It is said that, upon perceiving the intruder, Artemis' nymphs immediately gathered around her so as to shield her modesty from Actaeon. Thus, all he could see was Artemis's hair.
+It is said that, upon perceiving the intruder, Artemis' nymphs immediately gathered around her so as to shield her modesty. Thus, all Actaeon could see was Artemis's hair.
 
 > Then Actæon: Vidal, <br>
 > Vidal. &emsp; It is old Vidal speaking, <br>
