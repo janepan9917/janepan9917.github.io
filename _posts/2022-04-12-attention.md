@@ -102,7 +102,7 @@ The advantages of using multiple attention heads are very appealing. For starter
 Now, we can see that the computational cost of this multihead attention is (more or less) the same as a single-head attention with $d_q = d_k = d_v = d$. So the magic of using multihead attention is that we get to fold in $h$ different "selective summaries" of the sequence into a single context vector, for the same price as a single attention head. 
 
 ### Finishing touches
-So now we have a bunch of context vectors $A = {a_1, ..., a_n} \in \mathbb{n \times R_{d}}$. In order to get back to the output space, we simply apply a projection matrix $W_O \in  \mathbb{ R}^{d \times d_y}$:
+So now we have a bunch of context vectors $A = {a_1, ..., a_n} \in n \times \mathbb{R_{d}}$. In order to get back to the output space, we simply apply a projection matrix $W_O \in  \mathbb{ R}^{d \times d_y}$:
 
 $$
 \begin{aligned} 
