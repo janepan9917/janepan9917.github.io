@@ -27,7 +27,7 @@ More formally, given a particular piece of the sequence, attention spits out a l
 We have $$n$$ input vectors: $$\{x_1, ..., x_n\} \in \mathbb{R_{d_x}}$$. Our self-attention layer will map these vectors to $$n$$ output vectors
 $$\{y_1, ..., y_n\} \in \mathbb{R_{d_y}}$$. For now, let's focus on how attention itself works.
 
-### Computing attention, simply
+### _Computing attention, simply_
 There are three key players in the attention mechanism: 
 1. **Query**: $$q_j \in \mathbb{R}^{d_q}$$
 2. **Keys**: $$\{k_1, ..., k_n\} \in \mathbb{R}^{d_k}$$
@@ -51,7 +51,7 @@ $$g$$ can be thought of as a similarity function; it uses the key and query to c
 [^align]: Sometimes, the term "alignment score" is used synonymously with "attention score", and sometimes the alignment score is assumed to be normalized.
 
 
-### One step deeper
+### _One step deeper_
 This is not too bad so far. But how exactly do we pick the queries, keys, and values? It would be very difficult to learn a particular query, key, and value for every possible input vector. Instead, we'll learn weight matrices that we can multiply to any input vector. This way, we can compute a query, key, or value for any arbitary input vector that could be thrown at our model. 
 
 More formally, given some input vector $$x_i$$:
@@ -69,7 +69,7 @@ Now, our attention computation looks like this:
 2. Normalize the attention scores: $$\alpha_j = \text{softmax}(s_j)$$
 3. Compute the context vector: $$a_j = \sum^{n}_{i=1} \alpha_{j, i} v_i$$
 
-### Putting it all together
+### _Putting it all together_
 Okay, so we've discussed what happens with a single input vector $x_i$. Now, let's rewrite everything we've learned so far, but performing this computation across all $n$ input vectors simultaneously.
 
 Let's stack the $n$ input vectors into one input matrix $X \in \mathbb{R^{n \times d_x}}$. Then, we can compute all queries, keys, and values as such:
@@ -86,7 +86,7 @@ $$
 \end{aligned}
 $$
 
-### Multi-head attention
+### _Multi-head attention_
 An attention function, or **attention head**, is defined by a learned $W_Q$, $W_K$, and $W_V$. But why use one set of $W_Q$, $W_K$, and $W_V$ when we could use multiple? 
 
 **Multi-head attention**, as the name implies, uses multiple attention functions. Each one will compute its own attention; then, we concatenate them to get our final context vector. Assuming we have $h$ heads $\{ z_1, ..., z_h \}$ in our multi-head attention block:
@@ -102,7 +102,7 @@ The advantages of using multiple attention heads are very appealing. For starter
 
 Now, we can see that the computational cost of this multihead attention is (more or less) the same as a single-head attention with $d_q = d_k = d_v = d$. So the magic of using multihead attention is that we get to fold in $h$ different "selective summaries" of the sequence into a single context vector, for the same price as a single attention head. 
 
-### Finishing touches
+### _Finishing touches_
 So now we have a bunch of context vectors $A = {a_1, ..., a_n} \in n \times \mathbb{R_{d}}$. In order to get back to the output space, we simply apply a projection matrix $W_O \in  \mathbb{ R}^{d \times d_y}$:
 
 $$
