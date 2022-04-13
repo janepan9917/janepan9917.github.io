@@ -45,7 +45,7 @@ Here's the three steps to the attention function:
 2. Make the attention scores a probability distribution: $$\alpha_j = \text{softmax}(s_j)$$
 3. Take the weighted sum: $$a_j = \sum^{n}_{i=1} \alpha_{j, i} v_i$$
 
-$$g$$ can be thought of as a similarity function; it uses the key and query to compute the raw attention scores $s_j$, which can be thought of as a similarity score between the keys and the query. Then, we normalize $s_j$ using softmax normalization so that the weights in our linear combination will sum to 1.[^align] Finally, we compute the weighted sum across the values. The weighted sum $a_j$ is called the **context vector** for the $j$th token in the sequence.
+$$g$$ can be thought of as a similarity function; it uses the key and query to compute the raw attention scores $s_j$, which is a similarity score between the keys and the query. Then, we normalize $s_j$ using softmax normalization so that the weights in our linear combination will sum to 1.[^align] Finally, we compute the weighted sum across the values. The weighted sum $a_j$ is called the **context vector** for the $j$th token in the sequence.
 
 [^align]: Sometimes, the term "alignment score" is used synonymously with "attention score", and sometimes the alignment score is assumed to be normalized.
 
