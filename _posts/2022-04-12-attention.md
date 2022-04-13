@@ -13,7 +13,7 @@ Though attention as a concept was introduced in the 1990s, ["Attention is All Yo
 [Figures forthcoming. Also, not complete yet.]
 
 ## ELI5: What is attention?
-Say we have some sequence, as follows:
+Say we have some sequence as follows:
 
 > "Jane is hungry, and she's really craving pasta from Italy." 
 
@@ -21,11 +21,10 @@ Intuitively, we can see that there are words that are more closely connected to 
 
 Learning which pieces of the sequence are more related to a particular word (like "Jane" or "pasta") would be really useful. It would allow us to play down the effects of irrelevant parts of the sequence and boost the impact of the more relevant parts of the sequence. **Attention** is a mechanism that allows ML models to replicate this same effect in its computations. (For now, we will focus on **self-attention** -- attention within a single sequence).
 
-More formally, given a particular piece of the sequence, attention spits out a 
-across the information provided by _every other_ piece of the sequence. The weights of this linear combination reduce the impact of the "unimportant" bits of the sequence and increase the impact of the "important" bits. Thus, each piece of the sequence gets a custom linear combination which can be thought of as "selective summarization" of the information in the sequence.
+More formally, given a particular piece of the sequence, attention spits out a linear combination of the information provided by _every other_ piece of the sequence. The weights of this linear combination reduce the impact of the "unimportant" bits of the sequence and increase the impact of the "important" bits. Thus, each piece of the sequence gets a custom linear combination which can be thought of as "selective summarization" of the information in the sequence.
 
 ## The key components of attention
-First, some ground rules. We have $$n$$ input vectors: $$\{x_1, ..., x_n\} \in \mathbb{R_{d_x}}$$. Our self-attention layer will map these vectors to $$n$$ output vectors: $$\{y_1, ..., y_n\} \in \mathbb{R_{d_y}}$$. 
+We have $$n$$ input vectors: $$\{x_1, ..., x_n\} \in \mathbb{R_{d_x}}$$. Our self-attention layer will map these vectors to $$n$$ output vectors: $$\{y_1, ..., y_n\} \in \mathbb{R_{d_y}}$$. But let's forget about these for now. 
 
 ### Computing attention, simply
 There are three key players in the attention mechanism: 
@@ -33,16 +32,23 @@ There are three key players in the attention mechanism:
 2. **Keys**: $$\{k_1, ..., k_n\} \in \mathbb{R}^{d_k}$$
 3. **Values**: $$\{v_1, ..., v_n\} \in \mathbb{R}^{d_v}$$
 
-Broadly, the query asks the model, "Here's a representation of the token I'm looking at right now. What parts of the sequence are similar to this?" Using the query, the keys will be used to compute the **attention scores**, which will determine the weights of the linear combination mentioned above. Then, these weights are used along with the values to calculate the linear combination.
+All three are **representations** of tokens in the sequence.[^note] The query $q$ is computed for the token that we are currently processing. On the other hand, we have $n$ keys and $n$ values -- one for each value in the part of the sequence. 
+
+[^note]: We will see later how these representations are computed. 
+
+Broadly, the query asks the model, "Here's a representation of the token I'm looking at right now. What parts of the sequence are similar to this?"[^corr] (Since the query gets to "pick" which values get higher weights in the weighted sum, we say the query **attends** to the values.) Using the keys and the queries, we then compute the **attention scores**, which will determine the weights of the linear combination mentioned above. Finally, we calculate a linear combination of the values using weights computed in step 2.
  
+[^corr]: More precisely, the similarity is calculated between a representation of the token we're looking at (query) and a representation of the other tokens in the sequences (keys). 
+
 Here's the three steps to the attention function:
-1. Calculate the attention scores: $$s = g(k_i, q)$$
+1. Calculate the attention scores: $$s = g(\{k_1, ..., k_n\}, q)$$
 2. Make the attention scores a probability distribution: $$\alpha = \text{softmax}(s)$$
 3. Take the weighted sum: $$a = \sum^{n}_{i=1} v_i$$
 
-First, we use some function $$g$$ on the key and query to compute the raw attention scores. Then, we normalize using softmax normalization so that the weights in our linear combination will sum to 1. Finally, we compute the weighted sum across the values. We call this weighted sum the **context vector**.
+$$g$$ can be thought of as a similarity function; it uses the key and query to compute the raw attention scores, which can be thought of as a similarity score between the key and the query. Then, we normalize using softmax normalization so that the weights in our linear combination will sum to 1.[^align] Finally, we compute the weighted sum across the values. We call this weighted sum the **context vector**.
 
-Since the query gets to "pick" which values get higher weights in the weighted sum, we say the query **attends** to the values.
+[^align]: Sometimes, the term "alignment score" is used synonymously with "attention score", and sometimes the alignment score is assumed to be normalized.
+
 
 ### One step deeper
 This is not too bad so far. But how exactly do we pick the queries, keys, and values? It would be very difficult to learn a particular query, key, and value for every possible input vector. Instead, we'll learn weight matrices that we can multiply to any arbitrary input vector. This way, we can compute a query or key or value for any arbitary input vector that could be thrown at our model. 
