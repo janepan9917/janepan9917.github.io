@@ -7,7 +7,7 @@ tags:
 ---
 That term you keep seeing in papers without really knowing what it meant.
 
-## Introduction
+# Introduction
 Though attention as a concept was introduced in the 1990s, ["Attention is All You Need"](https://arxiv.org/abs/1706.03762) revolutionized its usage for machine learning models, particularly in natural language processing. I will try to legibly explain the mechanism of attention and its role in the Transformer architecture.
 
 [Figures forthcoming. Also, not complete yet.]
