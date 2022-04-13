@@ -24,7 +24,8 @@ Learning which pieces of the sequence are more related to a particular word (lik
 More formally, given a particular piece of the sequence, attention spits out a linear combination of the information provided by _every other_ piece of the sequence. The weights of this linear combination reduce the impact of the "unimportant" bits of the sequence and increase the impact of the "important" bits. Thus, each piece of the sequence gets a custom linear combination which can be thought of as "selective summarization" of the information in the sequence.
 
 ## The key components of attention
-We have $$n$$ input vectors: $$\{x_1, ..., x_n\} \in \mathbb{R_{d_x}}$$. Our self-attention layer will map these vectors to $$n$$ output vectors: $$\{y_1, ..., y_n\} \in \mathbb{R_{d_y}}$$. But let's forget about these for now. 
+We have $$n$$ input vectors: $$\{x_1, ..., x_n\} \in \mathbb{R_{d_x}}$$. Our self-attention layer will map these vectors to $$n$$ output vectors
+$$\{y_1, ..., y_n\} \in \mathbb{R_{d_y}}$$. For now, let's focus on how attention itself works.
 
 ### Computing attention, simply
 There are three key players in the attention mechanism: 
