@@ -159,6 +159,7 @@ Vidal exits by citing three bodies of water, all closely related to myths involv
 [^herm]: This is indeed the source of the term "hermaphrodite". Ovid's account [here](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0028%3Abook%3D4%3Acard%3D271).
 
 > &emsp; &emsp; &emsp; &emsp; The empty armour shakes as the cygnet moves. <br>
+
 We conclude the stanza with the tale of Achillus and Cygnus, the son of Poseidon. Though Cygnus was blessed with invulnerability to weapons, Achilles beat him bloody with his bare hands and strangled him with his own helmet. Eager to strip Cygnus of his armor, Achilles ripped the helmet off, but found the armor empty, and Cygnus transformed into a swan by Poseidon [^swan].
 
 [^swan]: [Metamorphoses 12: 64-145](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0028%3Abook%3D12%3Acard%3D64)
