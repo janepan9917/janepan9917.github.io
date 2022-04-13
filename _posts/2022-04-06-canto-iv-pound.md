@@ -109,7 +109,7 @@ The second is a tale of the foolish troubadour [Peire Vidal](http://ezrapoundcan
 > &emsp; &emsp; &emsp; &emsp; Like the church roof in Poictiers[^poitiers] <br>
 > If it were gold. <br>
 
-This half of the stanza, along with the following stanza, appear to be narrated by Vidal as he is seemingly chased by the hounds. Frantic and exhausted, he recalls Ovid's rendition of the myth of Actaeon in harried fragments. Now, his mind snaps from the sun-dazzled canopy of the trees to the waters in which Artemis and her huntresses bathe.
+This half of the stanza, along with the following stanza, appear to be narrated by Vidal as he is chased by the hounds. Frantic and exhausted, he recalls Ovid's rendition of the myth of Actaeon in harried fragments. Now, his mind snaps from the sun-dazzled canopy of the trees to the waters in which Artemis and her huntresses bathe.
 
 [^poitiers]: Perhaps the [Poitiers Cathedral](https://en.wikipedia.org/wiki/Poitiers_Cathedral)?
 
