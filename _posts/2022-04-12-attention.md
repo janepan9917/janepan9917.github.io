@@ -106,6 +106,6 @@ So now we have a bunch of context vectors $A = {a_1, ..., a_n} \in n \times \mat
 
 $$
 \begin{aligned} 
-Y &= AW_0
+Y &= AW_O
 \end{aligned} 
 $$
