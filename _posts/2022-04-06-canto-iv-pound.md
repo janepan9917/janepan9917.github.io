@@ -135,6 +135,8 @@ It is said that, upon perceiving the intruder, Artemis' nymphs immediately gathe
 >  &emsp; &emsp; &emsp; &emsp; the pale hair of the goddess. <br>
 
 ### Stanza 3
+This next stanza continues Vidal's ramblings about Actaeon. 
+
 > The dogs leap on Actæon, <br>
 > &emsp; &emsp; &emsp; &emsp; “Hither, hither, Actæon,” <br>
 > Spotted stag of the wood; <br>
@@ -142,12 +144,25 @@ It is said that, upon perceiving the intruder, Artemis' nymphs immediately gathe
 > &emsp; &emsp; &emsp; &emsp; Thick like a wheat swath, <br>
 > Blaze, blaze in the sun, <br>
 > &emsp; &emsp; &emsp; &emsp; The dogs leap on Actæon. <br>
+
+The death of Actaeon, which seem to foretell Vidal's fate, shakes the last vestiges of sanity out of Vidal. We observe as Vidal hobbles away from his pursuers:
+
 > Stumbling, stumbling along in the wood, <br>
 > Muttering, muttering Ovid: <br>
 > &emsp; &emsp; &emsp; &emsp; “Pergusa… pool… pool… Gargaphia, <br>
 > “Pool… pool of Salmacis.” <br>
+
+Vidal exits by citing three bodies of water, all closely related to myths involving irresistable lust. Pergusa is a lake close to where Hades abducted Persephone [^lake]. Gargaphia is the valley where Artemis and her nymphs bathed [^valley]. Salmacis was a Naiad, a nymph who presided over a particular pool of springwater. When the handsome youth Hermaphroditus visited her pool, she fell in love at first sight; despite his rejections, she forced herself upon him and prayed to the gods to let them stay together forever. The gods answered her by fusing them together into one being with both male and female parts.[^herm]
+
+[^lake]: Ovid Metamorphoses V 375-84
+[^valley]: Ovid Metamorphoses III: 163-177
+[^herm]: This is indeed the source of the term "hermaphrodite". Ovid's account [here](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0028%3Abook%3D4%3Acard%3D271).
+
 > &emsp; &emsp; &emsp; &emsp; The empty armour shakes as the cygnet moves. <br>
-                
+We conclude the stanza with the tale of Achillus and Cygnus, the son of Poseidon. Though Cygnus was blessed with invulnerability to weapons, Achilles beat him bloody with his bare hands and strangled him with his own helmet. Eager to strip Cygnus of his armor, Achilles ripped the helmet off, but found the armor empty, and Cygnus transformed into a swan by Poseidon [^swan].
+
+[^swan]: [Metamorphoses 12: 64-145](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0028%3Abook%3D12%3Acard%3D64)
+
 ### Stanza 4
 > Thus the light rains, thus pours, e lo soleills plovil <br>
 > The liquid and rushing crystal <br>
