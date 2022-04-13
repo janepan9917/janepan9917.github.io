@@ -51,7 +51,7 @@ $$g$$ can be thought of as a similarity function; it uses the key and query to c
 
 
 ### One step deeper
-This is not too bad so far. But how exactly do we pick the queries, keys, and values? It would be very difficult to learn a particular query, key, and value for every possible input vector. Instead, we'll learn weight matrices that we can multiply to any arbitrary input vector. This way, we can compute a query or key or value for any arbitary input vector that could be thrown at our model. 
+This is not too bad so far. But how exactly do we pick the queries, keys, and values? It would be very difficult to learn a particular query, key, and value for every possible input vector. Instead, we'll learn weight matrices that we can multiply to any input vector. This way, we can compute a query, key, or value for any arbitary input vector that could be thrown at our model. 
 
 More formally, given some input vector $$x_i$$:
 
