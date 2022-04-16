@@ -195,8 +195,14 @@ A line taken from Daniel Arnaut's "Lancan son passat li giure", _e lo soleills p
 > &emsp; &emsp; &emsp; &emsp; beneath the knees of the gods. <br>
 > Ply over ply, thin glitter of water; <br>
 > Brook film bearing white petals. <br>
+
+The sunlight seems to transform a stream into crystals as it runs under a temple. The white petals, suggestive of sakura blossoms, hints that this temple may be Tamura's. 
+
 > The pine at Takasago <br>
 > &emsp; &emsp; &emsp; &emsp; grows with the pine of Isé! <br>
+
+Pound ties Takasago Pine with the pines of Ise instead of the Suminoe Pine.
+
 > The water whirls up the bright pale sand in the spring’s mouth <br>
 > “Behold the Tree of the Visages!” <br>
 > Forked branch-tips, flaming as if with lotus. <br>
