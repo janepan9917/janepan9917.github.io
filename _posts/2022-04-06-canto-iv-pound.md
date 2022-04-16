@@ -21,9 +21,9 @@ I hate to chop up the poem into bits -- it feels a bit like spoon-feeding the re
 * Cyclism of destruction and creation, and this cycle perpetuated by passion/love
 
 You will notice a repeated twinning or mirroring of myths, where Pound entangles two myths/tales of similar themes. The pairs of myths are:
-* Tereus/Philomena (Greek) and Roussilon/Seremonda (French troubadour)
-* Actaeon/Artemis (Greek) and Vidal (French troubadour)
-* Tamura (Noh play) and Takasuga (Noh play)
+* Stanza 2: Tereus/Philomena (Greek) and Roussilon/Seremonda (French troubadour)
+* Stanzas 2-3: Actaeon/Artemis (Greek) and Vidal (French troubadour)
+* Stanza 4: Tamura (Noh play) and Takasuga (Noh play)
 
 ### Stanza 1
 
@@ -178,9 +178,19 @@ We conclude the stanza with the transformation of Cygnus [^swan], reinforcing th
 [^swan]: [Metamorphoses 12: 64-145](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0028%3Abook%3D12%3Acard%3D64)
 
 ### Stanza 4
-Another twinn
+Here come another two tales, this time from Japanese Noh theater.
+
+[Tamura](https://drive.google.com/file/d/0B99l_Zen-cTSSEpPWV9nTWU0bXc/view?resourcekey=0-mkJGKm2PYns-q5ruaFhnIQ) tells the story of a priest who visits a temple [^temple] which is attended by a boy, who sweeps the petals of the cherry blossoms in front of a shrine. The boy tells the monk about Tamura, the hero who built the shrine in honor of Kuanon [^gy]. Later, the monk realizes that the boy is actually the ghost of Tamura; after hearing the monk chat the Lotus Sutra, Tamura reappears in his battle armor and recalls his battle at the sea of Ise, where Kuanon's thousand arrows of light slew the evil spirits that occupied the pines of Anono.
+
+[Takasugo](http://ezrapoundcantos.org/index.php/a-draft-of-xvi-cantos-overview/canto-iv/iv-sources/144-takasago) tells the story of a priest who sees an elderly couple sweeping the pine needles from the famous Takasago Pine. They explain that the Takasago Pine is paired with the Suminoe Pine, which grows on the other side of the bay. The former represents the past and the latter represents the harmonious rule of the current emperor; both symbolize eternity. Finally, the couple reveals that they are the reincarnations of the paired pines.
+
+[^temple]: Pound says that this temple is called Seisuiga; other sources call it [Kiyomizu-dera Temple](https://www.the-noh.com/en/plays/data/program_028.html).
+[^gy]: The bodhisattva of compassion and mercy, perhaps better known by her Chinese name [Guanyin](https://en.wikipedia.org/wiki/Guanyin).
 
 > Thus the light rains, thus pours, e lo soleills plovil <br>
+
+A line taken from Daniel Arnaut's "Lancan son passat li giure", _e lo soleills plovil_ means "the sun rains". Both Tamura and Takasugo provide vivid imagery of the sun's rays on petal leaves and water, respectively.
+
 > The liquid and rushing crystal <br>
 > &emsp; &emsp; &emsp; &emsp; beneath the knees of the gods. <br>
 > Ply over ply, thin glitter of water; <br>
