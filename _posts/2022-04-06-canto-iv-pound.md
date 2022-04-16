@@ -158,15 +158,15 @@ The death of Actaeon, which seem to foretell Vidal's fate, shakes the last vesti
 > &emsp; &emsp; &emsp; &emsp; “Pergusa… pool… pool… Gargaphia, <br>
 > “Pool… pool of Salmacis.” <br>
 
-Vidal exits by citing three bodies of water, all closely related to myths involving irresistable lust. Pergusa is a lake close to where Hades abducted Persephone [^lake]. Gargaphia is the valley of the waters where Artemis and her nymphs bathed [^valley]. Salmacis was the nymph of a pool where she fell in love with Hermaphroditus [^herm]. 
+Vidal exits by citing three bodies of water, all closely related to myths involving irresistable lust. Pergusa is a lake close to where Hades abducted Persephone [^lake]. Gargaphia is the valley of the waters where Artemis and her nymphs bathed [^valley]. Salmacis was the nymph of a pool where she fell in love with Hermaphroditus [^herm].
 
 [^lake]: Ovid Metamorphoses V 375-84
 [^valley]: Ovid Metamorphoses III: 163-177
-[^herm]: [Salmacis](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0028%3Abook%3D4%3Acard%3D271) was a Naiad, a nymph who presided over a particular pool of springwater. When the handsome youth Hermaphroditus visited her pool, she fell in love at first sight; despite his rejections, she forced herself upon him and prayed to the gods to let them stay together forever. The gods answered her by fusing them together into one being with both male and female parts.This is indeed the source of the term "hermaphrodite". 
+[^herm]: [Salmacis](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0028%3Abook%3D4%3Acard%3D271) was a Naiad, a nymph who presided over a particular pool of springwater. When the handsome youth Hermaphroditus visited her pool, she fell in love at first sight; despite his rejections, she forced herself upon him and prayed to the gods to let them stay together forever. The gods answered her by fusing them together into one being with both male and female parts.
 
 > &emsp; &emsp; &emsp; &emsp; The empty armour shakes as the cygnet moves. <br>
 
-We conclude the stanza with the transformation of Cygnus [^swan].
+We conclude the stanza with the transformation of Cygnus [^swan], reinforcing the theme of metamomorphesis. 
 
 [^swan]: This line refers to the tale of Achillus and Cygnus, the son of Poseidon. Though Cygnus was blessed with invulnerability to weapons, Achilles beat him bloody with his bare hands and strangled him with his own helmet. Eager to strip Cygnus of his armor, Achilles ripped the helmet off, but found the armor empty, and Cygnus transformed into a swan by Poseidon.
 
