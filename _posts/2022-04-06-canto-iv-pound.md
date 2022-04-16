@@ -20,6 +20,11 @@ I hate to chop up the poem into bits -- it feels a bit like spoon-feeding the re
 * Divine order of nature vs. chaos of human civilization
 * Cyclism of destruction and creation, and this cycle perpetuated by passion/love
 
+You will notice a repeated twinning or mirroring of myths, where Pound entangles two myths/tales of similar themes. The pairs of myths are:
+* Tereus/Philomena (Greek) and Roussilon/Seremonda (French troubadour)
+* Actaeon/Artemis (Greek) and Vidal (French troubadour)
+* Tamura (Noh play) and Takasuga (Noh play)
+
 ### Stanza 1
 
 We open on the dawn following the fall of Troy, after the Greeks have razed the city from the inside out:
@@ -173,6 +178,8 @@ We conclude the stanza with the transformation of Cygnus [^swan], reinforcing th
 [^swan]: [Metamorphoses 12: 64-145](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0028%3Abook%3D12%3Acard%3D64)
 
 ### Stanza 4
+Another twinn
+
 > Thus the light rains, thus pours, e lo soleills plovil <br>
 > The liquid and rushing crystal <br>
 > &emsp; &emsp; &emsp; &emsp; beneath the knees of the gods. <br>
