@@ -20,6 +20,8 @@ I hate to chop up the poem into bits -- it feels a bit like spoon-feeding the re
 * Divine order of nature vs. chaos of human civilization
 * Cyclism of destruction and creation, and this cycle perpetuated by passion/love
 
+A key mechanism of this poem is based on a concept that reminds me strongly of the [Platonic theory of forms](https://en.wikipedia.org/wiki/Theory_of_forms). 
+
 You will notice a repeated twinning or mirroring of myths, where Pound entangles two myths/tales of similar themes. The pairs of myths are:
 * Stanza 2: Tereus/Philomena (Greek) and Roussilon/Seremonda (French troubadour)
 * Stanzas 2-3: Actaeon/Artemis (Greek) and Vidal (French troubadour)
@@ -206,6 +208,12 @@ Pound ties Takasago Pine with the pines of Ise instead of the Suminoe Pine.
 > The water whirls up the bright pale sand in the spring’s mouth <br>
 > “Behold the Tree of the Visages!” <br>
 > Forked branch-tips, flaming as if with lotus. <br>
+
+It's unclear what the Tree of the Visages[^metro] is. It may be the tree of life, as some manuscripts containing earlier drafts refer to it as "Ecce arborem vitae... Divine Love runs in the branches."[^cite] Given the prior themes of ambiguity and 
+
+[^metro]: A similar idea appears in [In a Station of the Metro](https://www.poetryfoundation.org/poetrymagazine/poems/12675/in-a-station-of-the-metro)
+[^cite]: https://www.towernotes.co.uk/literature-notes-52_Pound_Cantos_14.php
+
 > &emsp; &emsp; &emsp; &emsp; Ply over ply <br>
 > The shallow eddying fluid, <br>
 > &emsp; &emsp; &emsp; &emsp; beneath the knees of the gods. <br>
