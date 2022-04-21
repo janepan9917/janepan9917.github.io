@@ -38,7 +38,7 @@ The title _Erlebnis_ is often translated as "An Experience", or sometimes "A Vis
 > Of Persian blue toward evening, he is borne <br>
 > Along the city that was home. He sees there <br>
 > Lanes, hears lapping springs, smells <br>
-> Perfume from the lilacs, sees himsself, <br>
+> Perfume from the lilacs, sees himself, <br>
 > A child upon the bank with a child's eyes, <br>
 > Anxious and about to cry; and then sees <br>
 > Through the open window a light on in his room -- <br>
