@@ -8,7 +8,9 @@ tags:
 
 _Erlebnis_ and _Vorfrühling_.
 
-### Erlebnis[^title]
+### _Erlebnis_[^title]
+[^title]: "An Experience" or "A Vision"
+
 Translation by [Mary Kinzie](https://www.poetryfoundation.org/poetrymagazine/browse?contentId=48276).
 
 > Half-light filled the valley with a mist <br>
