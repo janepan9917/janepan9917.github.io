@@ -30,7 +30,7 @@ Translation by [Mary Kinzie](https://www.poetryfoundation.org/poetrymagazine/bro
 > That this was death, transformed as music, <br>
 > Craving; rough; and sweet and bright and dark, <br>
 > Akin to deepest sadness. <br>
-> &emsp; &emsp; &emsp; &emsp;&emsp; &emsp; But how strange! <br>
+> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; But how strange! <br>
 > A nameless yearning wept for life <br>
 > Without a sound within my soul, weeping <br>
 > As one might when, on an ocean vessel <br>
