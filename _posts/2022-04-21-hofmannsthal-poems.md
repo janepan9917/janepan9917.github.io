@@ -8,10 +8,10 @@ tags:
 
 _Erlebnis_ and _Vorfrühling_.
 
-### _Erlebnis_[^title]
-[^title]: "An Experience" or "A Vision"
+### _Erlebnis_
+Original text [here](https://de.wikisource.org/wiki/Erlebnis). Translation by [Mary Kinzie](https://www.poetryfoundation.org/poetrymagazine/browse?contentId=48276).
 
-Translation by [Mary Kinzie](https://www.poetryfoundation.org/poetrymagazine/browse?contentId=48276).
+The title _Erlebnis_ is often translated as "An Experience", or sometimes "A Vision". 
 
 > Half-light filled the valley with a mist <br>
 > Of aromatic silver as when moonlight <br>
