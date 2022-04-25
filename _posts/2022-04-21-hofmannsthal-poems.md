@@ -9,7 +9,7 @@ tags:
 _Erlebnis_.
 
 ## Introduction
-Better known as a librettist, Hofmannsthal was an Austrian prodigy who wrote for several of Strauss's operas. With a thematic emphasis on death, the ephemeral, and melancholy, his poetry featured finely rendered depictions of nature, particularly water and air. I see a strong connection between Hofmannsthal and the modernist poets that followed. 
+Better known as a librettist, Hofmannsthal was an Austrian prodigy who wrote for several of Strauss's operas. With a thematic emphasis on death, the ephemeral, and the melancholy, his poetry featured finely rendered depictions of nature, particularly water and air. I see a strong connection between Hofmannsthal and the modernist poets that followed. 
 
 He later stopped writing; in his [letter to Lord Chandos](https://depts.washington.edu/vienna/documents/Hofmannsthal/Hofmannsthal_Chandos.htm), he explains:
 
