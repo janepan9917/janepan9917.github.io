@@ -1,12 +1,12 @@
 ---
-title: '2 Poems by Hugo von Hofmannsthal'
+title: 'A Poem by Hugo von Hofmannsthal'
 date: 2022-04-21
 permalink: /posts/2022/04/hofmannsthal-poems/
 tags:
   - hobbies
 ---
 
-_Erlebnis_ and _Vorfrühling_.
+_Erlebnis_.
 
 ### _Erlebnis_
 Original text [here](https://de.wikisource.org/wiki/Erlebnis). Translation by [Mary Kinzie](https://www.poetryfoundation.org/poetrymagazine/browse?contentId=48276).
