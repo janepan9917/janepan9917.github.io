@@ -8,6 +8,13 @@ tags:
 
 _Erlebnis_.
 
+## Introduction
+Better known as a librettist, Hofmannsthal was an Austrian prodigy who wrote for several of Strauss's operas. With a thematic emphasis on death, the ephemeral, and melancholy, his poetry featured finely rendered depictions of nature, particularly water and air. I see a strong connection between Hofmannsthal and the modernist poets that followed. 
+
+He later stopped writing; in his [letter to Lord Chandos](https://depts.washington.edu/vienna/documents/Hofmannsthal/Hofmannsthal_Chandos.htm), he explains:
+
+> My case, in short, is this: I have lost completely the abil­ity to think or to speak of anything coherently... For me everything disintegrated into parts, those parts again into parts; no longer would anything let itself be en­compassed by one idea. Single words floated round me; they congealed into eyes which stared at me and into which I was forced to stare back-whirlpools which gave me vertigo and, reeling incessantly, led into the void... the whole thing is a kind of feverish thinking, but thinking in a medium more immediate, more liquid, more glowing than words. It, too, forms whirlpools, but of a sort that do not seem to lead, as the whirlpools of language, into the abyss, but into myself and into the deepest womb of peace.
+
 ### _Erlebnis_
 Original text [here](https://de.wikisource.org/wiki/Erlebnis). Translation by [Mary Kinzie](https://www.poetryfoundation.org/poetrymagazine/browse?contentId=48276).
 
