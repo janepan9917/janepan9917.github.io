@@ -16,7 +16,9 @@ I disagree with a vast majority of the video[^anya]. For starters, _Chainsaw Man
 
 To me, **_Chainsaw Man_ is an overt satirization of the male gaze in otaku culture.** It studies, with great incisiveness, the interplay between isolation, intimacy, and sex, with an emphasis on their causes and effects within the male psyche. This is grounded by an exploration of what it means to have value, both to oneself and to others, in a fundamentally transactory world. 
 
-## Isolation, Friendship, and the _Quid Pro Quo_
+## Denji and Isolation
+
+## Friendships, Contracts, and the _Quid Pro Quo_
 
 ## Platonic Touch as Human Connection
 
