@@ -79,8 +79,8 @@ I've bought so many games I'm honestly forgetting which ones I've played and wha
 * **Score**: 2/5. I'd personally give it a 3/5 because it hits that nostalgia button real good.
 
 ### Yakuza: Like A Dragon
-* **The Good**: An intensely well-realized world, with so many levels of details and minigames. A genuinely likeable protagonist with an interesting, though very slowly-paced narrative.
-* **The Bland**: Such a sluggish turn-based combat that tries to incorporate real-time elements, to very little avail. Though there is a very interesting narrative for why 
+* **The Good**: An intensely well-realized world, with so many levels of details and minigames. A genuinely likeable protagonist with an interesting though very slowly-paced narrative.
+* **The Bland**: Such a sluggish turn-based combat that tries to incorporate real-time elements, to very little avail. There is, however, an interesting lore reason for why turn-based combat is the primary mechanic.
 * **The Ugly**: When the minigames are funner than the actual game, you've got a problem on your hands.
 * **Best For**: A patient escapist who wants to experience a satirization of Japanese culture.
 * **Favorite Character**: Kasuga.
