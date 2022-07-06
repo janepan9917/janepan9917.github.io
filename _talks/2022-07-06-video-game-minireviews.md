@@ -12,6 +12,8 @@ I've bought so many games I'm honestly forgetting which ones I've played and wha
 
 ## FPS
 
+## FPS
+
 
 
 ## JRPGS
@@ -22,6 +24,7 @@ I've bought so many games I'm honestly forgetting which ones I've played and wha
 * **Best For**: Weebs who want to experience "classic" Fire Emblem without it actually being classic at all.
 * **Favorite Character**: Frederick
 * **Completed**: Gave up after the third marriage.
+* **Score**: 2/5
 
 ### Fire Emblem Fates
 * **The Good**: ...I guess it kept IS afloat long enough for the development of FE3H. Three branching paths is ambitious.
@@ -30,6 +33,7 @@ I've bought so many games I'm honestly forgetting which ones I've played and wha
 * **Best For**: Weebs.
 * **Favorite Character**: None.
 * **Completed**: I watched Corrin turn into a dragon and my eyes rolled so hard it crashed the emulator.
+* **Score**: 1/5
 
 ### Fire Emblem Radiant Dawn
 * **The Good**: More interesting map design than previous games.
@@ -38,6 +42,7 @@ I've bought so many games I'm honestly forgetting which ones I've played and wha
 * **Best For**: Weebs who, like me, were suffering from FE3H withdrawal and were desperate for any facsimile of it.
 * **Favorite Character**: None.
 * **Completed**: I think I got about 3 maps in before I got bored.
+* **Score**: 2/5
 
 ### Fire Emblem Three Houses
 * **The Good**: Exceptional execution of TRPG mechanics. A narrative that stands up well enough for a diverse and likeable cast, at least one of which you will become unhealthily obsessed with. Social sim mechanics are well balanced by the battle systems. Most importantly, a sense of narrative grandeur and immersion in the world.
@@ -46,17 +51,35 @@ I've bought so many games I'm honestly forgetting which ones I've played and wha
 * **Best For**: Weebs who fantasize about military strategy but are too dumb to actually study it.
 * **Favorite Character**: Dimitri.
 * **Completed**: Yes, three times.
+* **Score**: 5/5
 
 ### Suikoden Tierkreis
 * **The Good**: 108 recruitable and playable characters, most of whom are actually related to the story, bear compelling narratives, and are visually and personally distinct from each other. Good fight animations for its era. 
-* **The Bland**: Turn-based combat. Music that just barely hits "decent" for the high standards set by JRPG composers.
+* **The Bland**: The epitome of generic turn-based combat. Music that just barely hits "decent" for the high standards set by JRPG composers.
 * **The Ugly**: Random encounter hell.
 * **Best For**: Weebs who want to pretend they have more than three friends.
 * **Favorite Character**: Roberto, the angsty tsundere we all love.
 * **Completed**: Almost -- got scared to fight the final boss.
+* **Score**: 3/5
 
 ### Yakuza: Like A Dragon
+* **The Good**: An intensely well-realized world, with so many levels of details and minigames. A genuinely likeable protagonist with an interesting, though very slowly-paced narrative.
+* **The Bland**: Such a sluggish turn-based combat that tries to incorporate real-time elements, to very little avail. Though there is a very interesting narrative for why 
+* **The Ugly**: When the minigames are funner than the actual game, you've got a problem on your hands.
+* **Best For**: A patient escapist who wants to experience a satirization of Japanese culture.
+* **Favorite Character**: Kasuga.
+* **Completed**: I got about 25% through before I got bored by the combat and the infinitely trailing story.
+* **Score**: 3/5
 
+## Simulation Game
+### Abzu
+* **The Good**: Astoundingly beautiful graphics and a fantastic exploration of the sea. The dolphin level is still one of the most exquisite visuals I've seen in a video game.
+* **The Bland**: There's a narrative. I don't remember it at all.
+* **The Ugly**: It's an underwater walking sim.
+* **Best For**: Someone who loves the ocean and had a bad day.
+* **Favorite Character**: The dolphins for sure.
+* **Completed**: Yes.
+* **Score**: 4/5
 
 ## Roguelikes
 
@@ -71,3 +94,4 @@ I've bought so many games I'm honestly forgetting which ones I've played and wha
 * **Best For**: 
 * **Favorite Character**: 
 * **Completed**: 
+* **Score**:
