@@ -10,14 +10,42 @@ Because I honestly think I'm a better reviewer than 90% of writers at IGN.
 ## Introduction
 I've bought so many games I'm honestly forgetting which ones I've played and what I thought of them.
 
+## FPS
+
+
+
 ## JRPGS
-### Fire Emblem
-* **The Good**: 
-* **The Bland**: 
-* **The Ugly**: 
-* **Best For**: 
-* **Favorite Character**: 
-* **Completed**: 
+### Fire Emblem Awakening
+* **The Good**: We owe the existence of Intelligent Systems to this game, and without it, FE3H would not exist. QOL adjustments to TRPG mechanics. Pair-up system mechanic is interesting. Support convos + Barracks systems cuts the fat of the social sims.
+* **The Bland**: Copy-pasted level design. Some of the supports are... dumb.
+* **The Ugly**: I am not a matchmaker, nor should I need to make an Excel spreadsheet to be one. Also, parents marrying other people's children? Yeesh.
+* **Best For**: Weebs who want to experience "classic" Fire Emblem without it actually being classic at all.
+* **Favorite Character**: Frederick
+* **Completed**: Gave up after the third marriage.
+
+### Fire Emblem Fates
+* **The Good**: ...I guess it kept IS afloat long enough for the development of FE3H. Three branching paths is ambitious.
+* **The Bland**: The nicer end of the anime aesthetics. Some of the character designs are passable. The TRPG elements are well-tuned enough, with less repetitive bullshit. 
+* **The Ugly**: Everybody and their mother is a dragon. Camilla is my hell.
+* **Best For**: Weebs.
+* **Favorite Character**: None.
+* **Completed**: I watched Corrin turn into a dragon and my eyes rolled so hard it crashed the emulator.
+
+### Fire Emblem Radiant Dawn
+* **The Good**: More interesting map design than previous games.
+* **The Bland**: Micaela is a kind healer, wow. What a shocker.
+* **The Ugly**: The fact that I honestly can't remember more to write about should be an indicator.
+* **Best For**: Weebs who, like me, were suffering from FE3H withdrawal and were desperate for any facsimile of it.
+* **Favorite Character**: None.
+* **Completed**: I think I got about 3 maps in before I got bored.
+
+### Fire Emblem Three Houses
+* **The Good**: Exceptional execution of TRPG mechanics. A narrative that stands up well enough for a diverse and likeable cast, at least one of which you will become unhealthily obsessed with. Social sim mechanics are well balanced by the battle systems. Most importantly, a sense of narrative grandeur and immersion in the world.
+* **The Bland**: Monastery gets a bit old, especially in the second phase. Quality of support conversations is highly variable; oftentimes I skipped.
+* **The Ugly**: Silent protagonist and some particularly frustrating level design (e.g. fog of war, infinite reinforcements).
+* **Best For**: Weebs who fantasize about military strategy but are too dumb to actually study it.
+* **Favorite Character**: Dimitri.
+* **Completed**: Yes, three times.
 
 ### Suikoden Tierkreis
 * **The Good**: 108 recruitable and playable characters, most of whom are actually related to the story, bear compelling narratives, and are visually and personally distinct from each other. Good fight animations for its era. 
@@ -27,6 +55,14 @@ I've bought so many games I'm honestly forgetting which ones I've played and wha
 * **Favorite Character**: Roberto, the angsty tsundere we all love.
 * **Completed**: Almost -- got scared to fight the final boss.
 
+### Yakuza: Like A Dragon
+
+
+## Roguelikes
+
+## RPGs
+
+## Visual Novels
 
 ### Template
 * **The Good**: 
