@@ -10,7 +10,7 @@ Because I honestly think I'm a better reviewer than 90% of writers at IGN.
 ## Introduction
 I've bought so many games I'm honestly forgetting which ones I've played and what I thought of them. I'm using the [Dunkey scoring system](https://i.redd.it/spm9kpw52oa01.png).
 
-## Base-Building 
+## Base-Building/Survival 
 ### ARK: Survival Evolved
 * **The Good**: You can ride a dinosaur.
 * **The Bland**: Characters are ugly, especially yours.
@@ -19,6 +19,17 @@ I've bought so many games I'm honestly forgetting which ones I've played and wha
 * **Favorite Character**: The pterodactyl.
 * **Completed**: About 50 hours.
 * **Score**: 2/5
+
+### Don't Starve Together
+* **The Good**: Fantastic visual style; I love the take on cute-meets-creepy. It genuinely gets scary and the grim tone is balanced by the cartoonish visuals. The base-building isn't overly complicated and exploring is fun.
+* **The Bland**: You absolutely need to play this with friends. Can be a bit punishing at first. 
+* **The Ugly**: Once you get a good system going for getting food and you've explored enough, you kind of start to wonder what the point is. A game whose degree of interestingness is predicated on the stress it inflicts on you is just... I don't know.
+* **Best For**: Someone who wants a unique and interesting survival game that friends can easily pick up.
+* **Favorite Character**: The robot.
+* **Completed**: About 15 hours.
+* **Score**: 3/5
+
+
 
 ## FPS
 ### Apex Legends
@@ -47,7 +58,16 @@ I've bought so many games I'm honestly forgetting which ones I've played and wha
 * **Favorite Character**: None.
 * **Completed**: I didn't even make it to 10 hours...
 * **Score**: 2/5
-* 
+
+### Destiny 2
+* **The Good**: The graphics are SUPER clean, especially for a free-to-play game. Some of the character powers are well thought out and genuinely fun to play.
+* **The Bland**: This entire game. It's an infinity of "go to this point on the map" and "kill X number of Y" quests. Also, who's writing the goddamn dialogue? Also, my god did they go heavy handed with the auto-aim.
+* **The Ugly**: Did they run out of funds for voice actors and pull in the janitors for the voice lines?
+* **Best For**: Someone who wants the most brain dead of brain dead shooters -- so brain dead you don't even need to try to shoot.
+* **Favorite Character**: None.
+* **Completed**: Less than 5 hours.
+* **Score**: 1/5
+
 
 ## JRPGS
 ### Fire Emblem Awakening
