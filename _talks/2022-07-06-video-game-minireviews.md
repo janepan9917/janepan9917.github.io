@@ -22,7 +22,7 @@ I've bought so many games I'm honestly forgetting which ones I've played and wha
 
 ## FPS
 ### Apex Legends
-* **The Good**: Incredibly satisfying and fluid motions. Even if you have a negative K/D, like me, it still feels fun to slide around and jump and pick up loot. A very good ping system.
+* **The Good**: Incredibly satisfying and fluid sense of motion. Even if you have a negative K/D, like me, it still feels fun to slide around and jump and pick up loot. A very good ping system.
 * **The Bland**: If you have a negative K/D, like me, prepare to die early and often. Also, everybody is a health sponge. 
 * **The Ugly**: They took the Spitty out of play >:((((
 * **Best For**: Someone who wants to try FPS but doesn't know how to shoot, yet doesn't care.
@@ -30,7 +30,24 @@ I've bought so many games I'm honestly forgetting which ones I've played and wha
 * **Completed**: I played several hundred hours. The KD never left sub-zero.
 * **Score**: 3/5
 
+### Borderlands 2
+* **The Good**: Strong sense of campy-ness; it doesn't take itself seriously and neither should you. Satisfying, though easy combat. Siren is busted.
+* **The Bland**: You basically need to play this with friends or it's super boring.
+* **The Ugly**: Some of the jokes go past campy and into repulsive. 
+* **Best For**: Someone who can't play FPS but wants to feel like they're good at shooters.
+* **Favorite Character**: Maya.
+* **Completed**: Yes.
+* **Score**: 3/5
 
+### CS:GO
+* **The Good**: Clean and precise gunplay.
+* **The Bland**: Why have the graphics not been updated since 2005?
+* **The Ugly**: I thought League was bad about flaming noobs :'(
+* **Best For**: Someone who uses aim trainers and has an ego about not wanting to play Valorant.
+* **Favorite Character**: None.
+* **Completed**: I didn't even make it to 10 hours...
+* **Score**: 2/5
+* 
 
 ## JRPGS
 ### Fire Emblem Awakening
@@ -97,6 +114,15 @@ I've bought so many games I'm honestly forgetting which ones I've played and wha
 * **Completed**: I remember so little about this game, I don't even know if I finished it.
 * **Score**: 2/5
 
+### Botanicula
+* **The Good**: Strong aesthetic style, and I love the idea of a plant-based puzzle game. Little visual details make for a stylistic and charming tone.
+* **The Bland**: The puzzles. They're all poorly motivated, if that makes sense -- a lot of convoluted "puzzle game logic" going on, and it's not very inspiring.
+* **The Ugly**: I got stuck on a puzzle and my ego hurts.
+* **Best For**: Someone with a green thumb who isn't really into video games.
+* **Favorite Character**: None.
+* **Completed**: Fuck that puzzle >:(
+* **Score**: 2/5
+
 
 ## Simulation Game
 ### Abzu
@@ -112,7 +138,7 @@ I've bought so many games I'm honestly forgetting which ones I've played and wha
 
 ## RPGs
 ### Bastion
-* **The Good**: Great aesthetics and visuals. Tight controls. You can see the nascent virtues that would later make Supermassive Games such a powerhouse indie studio. It's a classic for a reason.
+* **The Good**: Great aesthetics and visuals. Tight controls. You can see the nascent virtues that would later make Supergiant Games such a powerhouse indie studio. It's a classic for a reason.
 * **The Bland**: I do not remember a single plotline or even the main character's name.
 * **The Ugly**: None that I remember.
 * **Best For**: Someone who wants a decent and fun action game for less than $10.
@@ -121,7 +147,15 @@ I've bought so many games I'm honestly forgetting which ones I've played and wha
 * **Score**: 3/5
 
 ## Visual Novels
-
+### Dangonronpa: Trigger Happy Havoc
+* **The Good**: A very cleanly curated style. The devs put time into the aesthetic and tone, and it shows. It's unique for a visual novel.
+* **The Bland**: Awful first person movement. I understand the intention behind the interrogation mechanics, I really do. I want to like the truth bullets. I just think it's so... so... boring....
+* **The Ugly**: Some of the most grotesque death scenes. There's something weirdly fetishitic and perverse about them, more so than in other video games.
+* **Best For**: Someone who wants a decent and fun action game for less than $10.
+* **Favorite Character**: None.
+* **Completed**: About 30%.
+* **Score**: 2/5
+* 
 ### Template
 * **The Good**: 
 * **The Bland**: 
