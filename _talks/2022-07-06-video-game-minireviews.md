@@ -166,12 +166,30 @@ I've bought so many games I'm honestly forgetting which ones I've played and wha
 * **Completed**: About 30%.
 * **Score**: 3/5
 
+### The Elder Scrolls V: Skyrim.
+* **The Good**: Such a huge world, and very well developed for its time. There's some political intrigue and worldbuilding that's very interesting.
+* **The Bland**: The combat isn't winning any awards for sure. Hack, cast spell, guard.
+* **The Ugly**: My god, are the NPCs ugly. Also, it suffers the same tradeoff of No Man's Sky -- everything outside of the main questlines just feels incredibly empty.
+* **Best For**: A patient gamer who wants to experience a classic and is willing to download hundreds of mods which may or may not break the game.
+* **Favorite Character**: None.
+* **Completed**: About 10 hours.
+* **Score**: 2/5
+
+### Furi
+* **The Good**: A tight visual aesthetic and one of the best soundtracks in video game history. Zero bullshit -- they cut all the fat. Most of the voice acting is pretty good. I love the concept of fighting bosses one-by-one. The bullet hell phases of combat are largely tight and precise.
+* **The Bland**: The character design ranges from excellent to blandly confused; so does the voice acting. The melee portions of battles are unplayable without a controller. Also, the story is piecemeal at best.
+* **The Ugly**: Prepare to die infinite times.
+* **Best For**: Someone with fast reflexes who likes electro.
+* **Favorite Character**: "Time is a picture in motion."
+* **Completed**: I got to the sewage guy. His final phase tilted me so hard I never played the game again.
+* **Score**: 3/5
+
 ## Visual Novels
 ### Dangonronpa: Trigger Happy Havoc
 * **The Good**: A very cleanly curated style. The devs put time into the aesthetic and tone, and it shows. It's unique for a visual novel.
 * **The Bland**: Awful first person movement. I understand the intention behind the interrogation mechanics, I really do. I want to like the truth bullets. I just think it's so... so... boring....
 * **The Ugly**: Some of the most grotesque death scenes. There's something weirdly fetishitic and perverse about them, more so than in other video games.
-* **Best For**: Someone who wants a decent and fun action game for less than $10.
+* **Best For**: A weeb who's interested in this classic visual novel and has the stomach to sit through Saw-like death scenes.
 * **Favorite Character**: None.
 * **Completed**: About 30%.
 * **Score**: 2/5
