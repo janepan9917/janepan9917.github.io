@@ -40,10 +40,11 @@ The second order effects of violence -- leading to unstable situations and menta
 > I'm going away. Far away. Anywhere. Doesn't matter to me. (Henchman)
 > Are you sure? Do you even know where you're heading? Without directions a lot of people wind up going round in circles... (Richard)
 
-# Violence Animalizes
+## Violence Animalizes
 Symbolism of animal masks. 
 - Fans turn into animals: bear, two headed swan, tiger, zebra
-- 
+
+
 ## Violence and Vanity
 * The Fans seek fame, but are murdered as nobodies.
 * The Son reclaims Father's empire, then destroys it himself in a drug-tripped haze before committing suicide.
