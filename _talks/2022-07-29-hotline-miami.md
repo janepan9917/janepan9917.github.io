@@ -5,6 +5,8 @@ permalink: /random/2022-07-29-hotline-miami
 date: 2022-07-29
 ---
 
+Do you like hurting other people?
+
 ## Violence Grounds
 Violence as the means of bringing about structure and identity. 
 * The Fans: Imitating Jacket. Tony chooses a mask because it was said to have been worn by Jacket himself. Hooking up phones, hoping 50 Blessings rings. Media features the Fans.
