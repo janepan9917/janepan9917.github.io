@@ -143,18 +143,61 @@ I've bought so many games I'm honestly forgetting which ones I've played and wha
 * **Completed**: Fuck that puzzle >:(
 * **Score**: 2/5
 
+### Death Squared
+* **The Good**: Cute ideas and some clever mechanics.
+* **The Bland**: You know how in Portal 2 co-op mode, you could do random shit to mess with your partner? This game is literally just that. LITERALLY just that.
+* **The Ugly**: Every puzzle can be solved by moving as slowly as possible so you know exactly what's going to happen. This does not an exhilarating experience make.
+* **Best For**: Couples looking for a reason to break up.
+* **Favorite Character**: Red cube.
+* **Completed**: Did about 20 levels.
+* **Score**: 2/5
 
-## Simulation Game
-### Abzu
-* **The Good**: Astoundingly beautiful graphics and a fantastic exploration of the sea. The dolphin level is still one of the most exquisite visuals I've seen in a video game.
-* **The Bland**: There's a narrative. I don't remember it at all.
-* **The Ugly**: It's an underwater walking sim.
-* **Best For**: Someone who loves the ocean and had a bad day.
-* **Favorite Character**: The dolphins for sure.
-* **Completed**: Yes.
-* **Score**: 4/5
 
 ## Roguelikes
+### Enter the Gungeon
+* **The Good**: Super clean mechanics make for an addicting main gameplay loop; it's a delight to move and control. Punntastic. Has a real sense of humor and style. One of the few narrative-less games I've played and enjoyed.
+* **The Bland**: Procedurally generated levels don't have THAT much variety, but it's a roguelike, so what do you expect? Also, I need to use the autoaim because I suck.
+* **The Ugly**: You will rage. The camera mode on co-op doesn't zoom outwards, so if you run in opposite directions, you will lock each other out of cover.
+* **Best For**: Somebody who's looking for a low-stakes but addicting game with great puns.
+* **Favorite Character**: Doggo.
+* **Completed**: So far I've gotten to level 3.
+* **Score**: 5/5.
+
+### Hades
+* **The Good**: Some of the best writing and character design in any video game, never mind roguelikes. Superb style and graphics. An interesting and sassy take on Greek mythology; I love the dynamics between Zagreus and many of the other characters.
+* **The Bland**: Man, those levels gets real repetitive. Some of the enemies are total bullshit. Sometimes the movement also feels like bullshit.
+* **The Ugly**: You start to get reliant on particular combinations of upgrades/weapons.
+* **Best For**: Someone looking for a particularly polished take on Greek mythology, or wants to experience the rare roguelike with a real sense of progression.
+* **Favorite Character**: Thanatos.
+* **Completed**: Beat Hades about 5 times now.
+* **Score**: 4/5.
+
+### Lovers in a Dangerous Spacetime
+* **The Good**: It's a generally well-balanced co-op experience that knows how to make the game exciting without actually putting you in real danger of losing. Visually, it's clean and the style is heartwarming.
+* **The Bland**: The concept is as cutesy and bland as one of those sugar cookies you get on an airplane. Some of the controls feel kinda floaty.
+* **The Ugly**: DO. NOT. PUT. THE. METAL. GEM. ON. THE. TURRET.
+* **Best For**: Family friendly fun (if you ignore the term "lovers" in the title).
+* **Favorite Character**: Beam gem.
+* **Completed**: Beat Ursa Major once.
+* **Score**: 3/5
+
+### Risk of Rain 2
+* **The Good**: None.
+* **The Bland**: The characters and the concept. I still have no idea where I am or why.
+* **The Ugly**: Have you ever tried to 1v100 enemies but each of them is more overpowered than you are? Also, some of the worst gyroscopic motion controls I've ever experienced.
+* **Best For**: People who enjoy hurting themselves (looking at you, Noah).
+* **Favorite Character**: None.
+* **Completed**: No, because I don't like hurting myself.
+* **Score**: 1/5
+
+### Vampire Survivors
+* **The Good**: The guy who made this game also designs slot machine graphics. Yes, it's that addicting. (When you get a chest with 5 items... hnnnggggggg...)
+* **The Bland**: You need to play this game at least for an hour before you unlock enough mechanics for it to actually be addicting. 
+* **The Ugly**: Seriously, this game is addicting. Also, some levels are super slow and require certain weapons to be viable into late-game.
+* **Best For**: Anybody without a gambling addiction. Also, anybody with a gambling addiction.
+* **Favorite Character** The garlic doesn't get enough love.
+* **Completed**: Beat the first 3 levels.
+* **Score**: 3/5
 
 ## RPGs
 ### Bastion
@@ -164,6 +207,15 @@ I've bought so many games I'm honestly forgetting which ones I've played and wha
 * **Best For**: Someone who wants a decent and fun action game for less than $10.
 * **Favorite Character**: None.
 * **Completed**: About 30%.
+* **Score**: 3/5
+
+### Dragon Age: Origins
+* **The Good**: Classic Bioware grand scope of narrative. As per usual, the character writing is excellent -- the dialogue for some of the compainions (Alistair, Zevran) are particularly witty. YOU CAN ROMANCE SOMEONE.
+* **The Bland**: There are roleplaying options for sure. Is there any reason to not pick the nice and bland option? Nope.
+* **The Ugly**: The DnD style turn-based combat is mindnumbingly slow. I ended up turning the difficulty down and playing in real time. Even then, it's the same pattern: buff party -> cast AOE spell -> auto-attack.
+* **Best For**: Someone who doesn't mind plodding through boring combat in the name of narrative and banging 2-D men on screen.
+* **Favorite Character**: Alistair.
+* **Completed**: About 40%.
 * **Score**: 3/5
 
 ### The Elder Scrolls V: Skyrim.
@@ -184,16 +236,45 @@ I've bought so many games I'm honestly forgetting which ones I've played and wha
 * **Completed**: I got to the sewage guy. His final phase tilted me so hard I never played the game again.
 * **Score**: 3/5
 
+### Mass Effect Trilogy
+* **The Good**: Maybe controversial -- I loved how, from game to game, you could see the narrative scope expanding until you literally become the hero of the galaxy. Some of the most outstanding character writing in any video game ever. A fantastic sense of impending doom. YOU CAN ROMANCE A SPACE DADDY.
+* **The Bland**: The combat ranges from spammy-but-satisfying to shoot-shoot-reload-wait-shoot-shoot-repeat. Biotics for life.
+* **The Ugly**: Slogging through some areas -- especially the rover-driving sections -- can be a truly mindnumbing experience. You may not like the ending.
+* **Best For**: Someone who wants to roleplay as the literal savior of the universe, who doesn't mind a lack of polish in the combat mechanics.
+* **Favorite Character**: GARRUS MY ALIEN HUSBAND.
+* **Completed**: Yes.
+* **Score**: 4/5
+
+## Simulation 
+### Abzu
+* **The Good**: Astoundingly beautiful graphics and a fantastic exploration of the sea. The dolphin level is still one of the most exquisite visuals I've seen in a video game.
+* **The Bland**: There's a narrative. I don't remember it at all.
+* **The Ugly**: It's an underwater walking sim.
+* **Best For**: Someone who loves the ocean and had a bad day.
+* **Favorite Character**: The dolphins for sure.
+* **Completed**: Yes.
+* **Score**: 4/5
+
 ## Visual Novels
 ### Dangonronpa: Trigger Happy Havoc
 * **The Good**: A very cleanly curated style. The devs put time into the aesthetic and tone, and it shows. It's unique for a visual novel.
-* **The Bland**: Awful first person movement. I understand the intention behind the interrogation mechanics, I really do. I want to like the truth bullets. I just think it's so... so... boring....
+* **The Bland**: Annoying first person movement. I understand the intention behind the interrogation mechanics, I really do. I want to like the truth bullets. I just think it's so... so... boring....
 * **The Ugly**: Some of the most grotesque death scenes. There's something weirdly fetishitic and perverse about them, more so than in other video games.
 * **Best For**: A weeb who's interested in this classic visual novel and has the stomach to sit through Saw-like death scenes.
 * **Favorite Character**: None.
 * **Completed**: About 30%.
 * **Score**: 2/5
-* 
+ 
+### Sunless Seas
+* **The Good**: An interesting concept and world, I guess? Some of the writing is genuinely interesting and the hook was strong.
+* **The Bland**: Unintelligible UI. 
+* **The Ugly**: This is literally a game built around awful movement mechanics. WHY IS THE GAME PERSPECTIVE LOCKED TO THE NORTH. WHY CAN'T IT BE FACING THE DIRECTION MY SHIP IS POINTED IN. Combat is sluggish and unsatisfying.
+* **Best For**: Someone who wants to read a slow-paced novel with extra bells and whistles.
+* **Favorite Character**: None
+* **Completed**: About 1 hour past the tutorial.
+* **Score**: 1/5
+
+
 ### Template
 * **The Good**: 
 * **The Bland**: 
@@ -202,3 +283,5 @@ I've bought so many games I'm honestly forgetting which ones I've played and wha
 * **Favorite Character**: 
 * **Completed**: 
 * **Score**:
+
+
