@@ -17,7 +17,7 @@ My name is Jane. I'm an incoming PhD student at New York University, where I wor
 
 Previously, I completed my Master's at Princeton University, where I was advised by [Danqi Chen](https://www.cs.princeton.edu/~danqic/). I worked in the Princeton NLP Group and was named a Siebel Scholar by the Princeton Department of Computer Science. I graduated _magna cum laude_ from Columbia University with a B.S. in Applied Mathematics, where I was a Davis Scholar working with [Chunhua Weng](https://people.dbmi.columbia.edu/~chw7007/) on NLP for the biomedical domain. Before I dived into NLP research, I worked in quantitative finance and data science at Morgan Stanley and Acadian Asset Management.
 
-I love teaching mathematics, especially proof-based courses or courses related to machine learning. At Princeton, I taught machine learning (COS 324) and introductory theoretical computer science (COS 340/240); at Columbia, I taught Artificial Intelligence (COMS 4701) and Discrete Mathematics (COMS 3203).
+I love teaching mathematics, especially proof-based courses or courses related to machine learning. At Princeton, I was the Head TA for introductory machine learning (COS 324) and also taught introductory theoretical computer science (COS 340/240). At Columbia, I taught Artificial Intelligence (COMS 4701) and Discrete Mathematics (COMS 3203).
 
 In my free time, I enjoy reading and writing; my favorite author is John Steinbeck, and I am highly interested in the work of modernist poets like Wallace Stevens and T.S. Eliot. My latest hobbies include baking and hand embroidery. 
 
