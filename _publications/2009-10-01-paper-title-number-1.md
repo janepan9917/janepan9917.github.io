@@ -2,7 +2,7 @@
 title: 'What In-Context Learning "Learns" In-Context: Disentangling Task Recognition and Task Learning'
 collection: publications
 permalink: /publication/pan-2023-what-in-context-learning-learns/
-excerpt: 'In-Contex'
+excerpt: '...we characterize two ways through which ICL leverages demonstrations. Task recognition (TR) captures the extent to which LLMs can recognize a task through demonstrations, even without ground-truth labels, and apply their pre-trained priors, whereas task learning (TL) is the ability to capture new input-label mappings unseen in pre-training. Using a wide range of classification datasets and three LLM families (GPT-3, LLaMA and OPT), we design controlled experiments to disentangle the roles of TR and TL in ICL...'
 date: 2023-05-16
 venue: 'Findings of ACL 2023'
 paperurl: '[ArXiV](https://arxiv.org/abs/2305.09731)'
