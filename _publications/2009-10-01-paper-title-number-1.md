@@ -2,14 +2,10 @@
 title: 'What In-Context Learning "Learns" In-Context: Disentangling Task Recognition and Task Learning'
 collection: publications
 permalink: /publication/pan-2023-what-in-context-learning-learns/
-excerpt: 'We characterize two ways through which ICL leverages demonstrations...'
+excerpt: 'In-Contex'
 date: 2023-05-16
 venue: 'Findings of ACL 2023'
 paperurl: '[ArXiV](https://arxiv.org/abs/2305.09731)'
 citation: 'Pan, J., Gao, T., Chen, H., & Chen, D. (2023). What In-Context Learning "Learns" In-Context: Disentangling Task Recognition and Task Learning. Annual Meeting of the Association for Computational Linguistics.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Large language models (LLMs) exploit in-context learning (ICL) to solve tasks with only a few demonstrations, but its mechanisms are not yet well-understood. Some works suggest that LLMs only recall already learned concepts from pre-training, while others hint that ICL performs implicit learning over demonstrations. We characterize two ways through which ICL leverages demonstrations. Task recognition (TR) captures the extent to which LLMs can recognize a task through demonstrations -- even without ground-truth labels -- and apply their pre-trained priors, whereas task learning (TL) is the ability to capture new input-label mappings unseen in pre-training. Using a wide range of classification datasets and three LLM families (GPT-3, LLaMA and OPT), we design controlled experiments to disentangle the roles of TR and TL in ICL. We show that (1) models can achieve non-trivial performance with only TR, and TR does not further improve with larger models or more demonstrations; (2) LLMs acquire TL as the model scales, and TL's performance consistently improves with more demonstrations in context. Our findings unravel two different forces behind ICL and we advocate for discriminating them in future ICL research due to their distinct nature.).
