@@ -2,7 +2,7 @@
 title: 'What In-Context Learning "Learns" In-Context: Disentangling Task Recognition and Task Learning'
 collection: publications
 permalink: /publication/pan-2023-what-in-context-learning-learns/
-excerpt: 'bruh'
+excerpt: 'We characterize two ways through which ICL leverages demonstrations...'
 date: 2023-05-16
 venue: 'Findings of ACL 2023'
 paperurl: '[ArXiV](https://arxiv.org/abs/2305.09731)'
