@@ -11,12 +11,17 @@ redirect_from:
 
 ## Education
 -----------------
-* M.S. in Computer Science, Princeton University, Expected 2023
+* PhD in Computer Science, Courant Institute, New York University, Expected 2028
+* M.S. in Computer Science, Princeton University, 2023
 * B.S. in Applied Mathematics, Columbia University School of Engineering, 2021, _magna cum laude_
 
 ## Work Experience
 -----------------
-* **Fall 2022 - Current: Research Assistant**
+* **Fall 2023 - Present: Research Assistant**
+  * New York University
+  * Supervisor: He He
+
+* **Fall 2022 - Spring 2023: Research Assistant**
   * Princeton University
   * Supervisor: Professor Danqi Chen
 
