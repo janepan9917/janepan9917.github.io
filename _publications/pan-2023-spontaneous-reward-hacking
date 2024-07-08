@@ -1,0 +1,11 @@
+---
+title: 'Spontaneous Reward Hacking in Iterative Self-Refinement'
+collection: publications
+permalink: /publication/pan-2023-spontaneous-reward-hacking/
+excerpt: '...Using an essay editing task, we show that iterative self-refinement leads to deviation between the language model evaluator and human judgment, demonstrating that reward hacking can occur spontaneously in-context with the use of iterative self-refinement. In addition, we study conditions under which reward hacking occurs and observe two factors that affect reward hacking severity: model size and context sharing between the generator and the evaluator.'
+date: 2023-05-16
+venue: 'pre-print'
+paperurl: '[ArXiV](https://arxiv.org/abs/2407.04549)'
+citation: 'Pan, J., He, H., Bowman, S., & Feng, S. (2023). Spontaneous Reward Hacking in Iterative Self-Refinement.'
+---
+_Language models are capable of iteratively improving their outputs based on natural language feedback, thus enabling in-context optimization of user preference. In place of human users, a second language model can be used as an evaluator, providing feedback along with numerical ratings which the generator attempts to optimize. However, because the evaluator is an imperfect proxy of user preference, this optimization can lead to reward hacking, where the evaluator's ratings improve while the generation quality remains stagnant or even decreases as judged by actual user preference. The concern of reward hacking is heightened in iterative self-refinement where the generator and the evaluator use the same underlying language model, in which case the optimization pressure can drive them to exploit shared vulnerabilities. Using an essay editing task, we show that iterative self-refinement leads to deviation between the language model evaluator and human judgment, demonstrating that reward hacking can occur spontaneously in-context with the use of iterative self-refinement. In addition, we study conditions under which reward hacking occurs and observe two factors that affect reward hacking severity: model size and context sharing between the generator and the evaluator.)._
