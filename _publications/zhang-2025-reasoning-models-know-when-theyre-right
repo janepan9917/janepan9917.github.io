@@ -1,0 +1,11 @@
+---
+title: 'Reasoning Models Know When They're Right: Probing Hidden States for Self-Verification'
+collection: publications
+permalink: /publication/zhang-2025-reasoning-models-know-when-theyre-right
+excerpt: '...we find models' hidden states encode correctness of future answers, enabling early prediction of the correctness before the intermediate answer is fully formulated.'
+date: 2025-04-07
+venue: 'COLM 2025'
+paperurl: '[ArXiV](https://arxiv.org/abs/2504.05419)'
+citation: 'A Zhang, Y Chen, J Pan, C Zhao, A Panda, J Li, H He (2025). Reasoning Models Know When They're Right: Probing Hidden States for Self-Verification.'
+---
+_Reasoning models have achieved remarkable performance on tasks like math and logical reasoning thanks to their ability to search during reasoning. However, they still suffer from overthinking, often performing unnecessary reasoning steps even after reaching the correct answer. This raises the question: can models evaluate the correctness of their intermediate answers during reasoning? In this work, we study whether reasoning models encode information about answer correctness through probing the model's hidden states. The resulting probe can verify intermediate answers with high accuracy and produces highly calibrated scores. Additionally, we find models' hidden states encode correctness of future answers, enabling early prediction of the correctness before the intermediate answer is fully formulated. We then use the probe as a verifier to decide whether to exit reasoning at intermediate answers during inference, reducing the number of inference tokens by 24\% without compromising performance. These findings confirm that reasoning models do encode a notion of correctness yet fail to exploit it, revealing substantial untapped potential to enhance their efficiency.
