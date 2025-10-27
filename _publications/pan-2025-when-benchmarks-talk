@@ -1,0 +1,11 @@
+---
+title: 'When Benchmarks Talk: Re-Evaluating Code LLMs with Interactive Feedback'
+collection: publications
+permalink: /publication/pan-2025-when-benchmarks-talk
+excerpt: '...We introduce an interactive evaluation pipeline to examine how LLMs incorporate different types of feedback in a collaborative setting.'
+date: 2025-02-25
+venue: 'Findings of ACL 2025'
+paperurl: '[ArXiV](https://arxiv.org/abs/2502.18413)'
+citation: 'J Pan, R Shar, J Pfau, A Talwalkar, H He, V Chen (2025). When Benchmarks Talk: Re-Evaluating Code LLMs with Interactive Feedback'
+---
+_Reasoning models have achieved remarkable performance on tasks like math and logical reasoning thanks to their ability to search during reasoning. However, they still suffer from overthinking, often performing unnecessary reasoning steps even after reaching the correct answer. This raises the question: can models evaluate the correctness of their intermediate answers during reasoning? In this work, we study whether reasoning models encode information about answer correctness through probing the model's hidden states. The resulting probe can verify intermediate answers with high accuracy and produces highly calibrated scores. Additionally, we find models' hidden states encode correctness of future answers, enabling early prediction of the correctness before the intermediate answer is fully formulated. We then use the probe as a verifier to decide whether to exit reasoning at intermediate answers during inference, reducing the number of inference tokens by 24\% without compromising performance. These findings confirm that reasoning models do encode a notion of correctness yet fail to exploit it, revealing substantial untapped potential to enhance their efficiency.
