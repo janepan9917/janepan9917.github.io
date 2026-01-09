@@ -13,7 +13,7 @@ Thanks for visiting my website -- so nice to meet you :D
 About me
 ======
 
-My name is Jane. I'm a third year PhD student at New York University, where I am advised by [He He](https://hhexiy.github.io/). I study machine learning, specializing in natural language processing. Broadly, I'm interested in better understanding and usage of large language models, including human-centered NLP, evaluation, and human-AI collaboration. I am fortunate to be supported by the NSF Graduate Research Fellowship and a DeepMind Fellowship. I am currently interning at Meta Superintelligence Labs under the supervision of [Negar Ghorbani](https://negarq.github.io/).
+My name is Jane. I'm a third year PhD student at New York University, where I am advised by [He He](https://hhexiy.github.io/). I study machine learning, specializing in natural language processing. Broadly, I'm interested in better understanding and usage of large language models, including human-centered NLP, evaluation, and human-AI collaboration. I am fortunate to be supported by the NSF Graduate Research Fellowship and a DeepMind Fellowship. I am currently interning at Meta Superintelligence Labs.
 
 Previously, I completed my Master's at Princeton University, where I was advised by [Danqi Chen](https://www.cs.princeton.edu/~danqic/). I worked in the Princeton NLP Group and was named a Siebel Scholar by the Princeton Department of Computer Science. I graduated _magna cum laude_ from Columbia University with a B.S. in Applied Mathematics, where I was a Davis Scholar working with [Chunhua Weng](https://people.dbmi.columbia.edu/~chw7007/) on NLP for the biomedical domain. Before I dived into NLP research, I worked in quantitative finance and data science at Morgan Stanley and Acadian Asset Management.
 
