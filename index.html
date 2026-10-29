@@ -1,0 +1,175 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Jane Pan</title>
+<meta name="description" content="Jane Pan — PhD student at NYU working on machine learning and NLP." />
+<meta property="og:title" content="Jane Pan" />
+<meta property="og:description" content="PhD student at NYU working on machine learning and NLP." />
+<meta property="og:image" content="images/profile.jpg" />
+<style>
+  :root{
+    color-scheme: light dark;
+    --bg:#F8F7FA; --text:#1E1D26; --muted:#6A6778; --accent:#6565AE; --rule:#E2E0E9;
+    --serif: "Iowan Old Style", "Palatino Linotype", Palatino, "Book Antiqua", Georgia, serif;
+    --sans: -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
+    --mono: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+  }
+  @media (prefers-color-scheme: dark){
+    :root:not([data-theme="light"]){
+      --bg:#13121A; --text:#ECE9F2; --muted:#948FA8; --accent:#9F9DE2; --rule:#272533;
+    }
+  }
+  :root[data-theme="dark"]{ --bg:#13121A; --text:#ECE9F2; --muted:#948FA8; --accent:#9F9DE2; --rule:#272533; }
+
+  *{box-sizing:border-box;}
+  html,body{margin:0;padding:0;}
+  body{ background: var(--bg); color: var(--text); font-family: var(--serif); min-height: 100vh; }
+  a{ color: var(--accent); text-decoration-thickness:1px; text-underline-offset:2px; }
+  a:focus-visible, button:focus-visible{ outline: 2px solid var(--accent); outline-offset: 2px; }
+
+  .wrap{ max-width: 660px; margin:0 auto; padding: 4.5rem 1.5rem 6rem; }
+
+  .head{ display:flex; align-items:center; gap:1.5rem; margin-bottom:1.6rem; }
+  .photo{ width:84px; height:84px; object-fit:cover; flex:none; filter:saturate(0.96); border-radius:50%; }
+  h1{ font-family: var(--serif); font-weight:500; font-size:2.2rem; line-height:1.05; margin:0; text-wrap:balance; }
+
+  p{ font-size:1.07rem; line-height:1.68; margin:0 0 1.15rem; }
+  .scholar-line{ font-family: var(--sans); font-size:0.92rem; color: var(--muted); margin-top:1.6rem; }
+  .scholar-line a{ color: var(--text); font-weight:600; border-bottom:1px solid var(--accent); text-decoration:none; padding-bottom:1px; }
+
+  h2{ font-family: var(--sans); font-size:0.74rem; text-transform:uppercase; letter-spacing:0.12em; color: var(--muted); font-weight:600; margin: 3.4rem 0 0.2rem; }
+
+  .pub-list{ list-style:none; margin:1.2rem 0 0; padding:0; }
+  .pub{ display:grid; grid-template-columns: 3.6rem 1fr; gap:1.1rem; padding:0.85rem 0; }
+  .pub-year{ font-family: var(--mono); font-variant-numeric:tabular-nums; font-size:0.82rem; color: var(--muted); padding-top:0.2rem; }
+  a.pub-title{
+    display:block; color: var(--text); text-decoration:none;
+    font-family: var(--sans); font-weight:600; font-size:0.86rem;
+    text-transform:uppercase; letter-spacing:0.05em; line-height:1.4;
+  }
+  a.pub-title:hover{ color: var(--accent); }
+  .pub-meta{ font-family: var(--sans); font-size:0.8rem; color: var(--muted); margin-top:0.35rem; display:block; }
+  .pub-note{ font-family: var(--sans); font-size:0.86rem; color: var(--muted); margin-top:1rem; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <header class="head">
+      <img class="photo" src="images/profile.jpg" alt="Jane Pan" />
+      <h1>Jane Pan</h1>
+    </header>
+
+    <p>I'm a PhD student at New York University, studying machine learning and natural language processing. I'm broadly interested in understanding, evaluating, and improving how large language models are used — including human-centered NLP and human&#8211;AI collaboration. I'm supported by the NSF Graduate Research Fellowship and a DeepMind Fellowship, and I'm currently a Visiting Researcher at FAIR Alignment, working with Jack Lanchantin, Swarnadeep Saha, and Jason Weston.</p>
+
+    <p>Previously, I completed my Master's at Princeton University with Danqi Chen in the Princeton NLP Group, and graduated <em>magna cum laude</em> from Columbia University with a B.S. in Applied Mathematics. Before NLP, I worked in quantitative finance and data science at Morgan Stanley and Acadian Asset Management.</p>
+
+    <div class="scholar-line">Full publication list on <a href="https://scholar.google.com/citations?user=aDtZe-kAAAAJ&amp;hl=en" target="_blank" rel="noopener">Google Scholar</a>.</div>
+
+    <h2>Publications</h2>
+    <ul class="pub-list" id="pub-list"></ul>
+    <div class="pub-note" id="pub-note" style="display:none;"></div>
+  </div>
+
+<script>
+(function(){
+  var REPO = "janepan9917/janepan9917.github.io";
+  var listEl = document.getElementById("pub-list");
+  var noteEl = document.getElementById("pub-note");
+
+  function showNote(msg){
+    noteEl.textContent = msg;
+    noteEl.style.display = "block";
+  }
+
+  function escapeHtml(s){
+    return String(s).replace(/[&<>"']/g, function(c){
+      return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c];
+    });
+  }
+
+  // minimal BibTeX single-entry parser: handles {..} and "..", nested braces in values
+  function parseBibtex(text){
+    var m = text.match(/@(\w+)\s*\{\s*([^,]+),([\s\S]*)\}\s*$/);
+    if (!m) return null;
+    var body = m[3];
+    var fields = {};
+    var i = 0, n = body.length;
+    while (i < n){
+      while (i < n && /[\s,]/.test(body[i])) i++;
+      if (i >= n) break;
+      var nameStart = i;
+      while (i < n && body[i] !== "=" && body[i] !== ",") i++;
+      if (body[i] !== "=") break;
+      var name = body.slice(nameStart, i).trim().toLowerCase();
+      i++;
+      while (i < n && /\s/.test(body[i])) i++;
+      var value = "";
+      if (body[i] === "{"){
+        var depth = 0, start = i;
+        do {
+          if (body[i] === "{") depth++;
+          else if (body[i] === "}") depth--;
+          i++;
+        } while (i < n && depth > 0);
+        value = body.slice(start + 1, i - 1);
+      } else if (body[i] === '"'){
+        var s2 = ++i;
+        while (i < n && body[i] !== '"') i++;
+        value = body.slice(s2, i);
+        i++;
+      } else {
+        var s3 = i;
+        while (i < n && body[i] !== ",") i++;
+        value = body.slice(s3, i).trim();
+      }
+      fields[name] = value.replace(/\s+/g, " ").trim();
+    }
+    return fields;
+  }
+
+  function formatAuthors(str){
+    if (!str) return "";
+    return str.split(/\s+and\s+/).map(function(a){
+      a = a.trim();
+      if (a.indexOf(",") !== -1) return a.split(",")[0].trim();
+      var parts = a.split(/\s+/);
+      return parts[parts.length - 1];
+    }).join(", ");
+  }
+
+  function render(entries){
+    entries.sort(function(a, b){ return (b.year || "0") - (a.year || "0"); });
+    listEl.innerHTML = entries.map(function(e){
+      var venue = e.venue || e.booktitle || e.journal || "";
+      var meta = [formatAuthors(e.author), venue].filter(Boolean).join(" · ");
+      var title = escapeHtml(e.title || "Untitled");
+      var titleHtml = e.url
+        ? '<a class="pub-title" href="' + escapeHtml(e.url) + '" target="_blank" rel="noopener">' + title + '</a>'
+        : '<span class="pub-title">' + title + '</span>';
+      return '<li class="pub"><span class="pub-year">' + escapeHtml(e.year || "") + '</span>' +
+        '<span>' + titleHtml + '<span class="pub-meta">' + escapeHtml(meta) + '</span></span></li>';
+    }).join("");
+  }
+
+  fetch("https://api.github.com/repos/" + REPO + "/contents/publications")
+    .then(function(r){ if (!r.ok) throw new Error("list failed"); return r.json(); })
+    .then(function(files){
+      var bibFiles = files.filter(function(f){ return /\.bib$/i.test(f.name); });
+      if (!bibFiles.length){ showNote("No publications listed yet."); return; }
+      return Promise.all(bibFiles.map(function(f){
+        return fetch(f.download_url).then(function(r){ return r.text(); });
+      })).then(function(texts){
+        var entries = texts.map(parseBibtex).filter(Boolean);
+        if (!entries.length){ showNote("Publications list couldn't be parsed."); return; }
+        render(entries);
+      });
+    })
+    .catch(function(){
+      showNote("Publications list couldn't load right now — see Google Scholar above.");
+    });
+})();
+</script>
+</body>
+</html>
