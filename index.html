@@ -153,13 +153,19 @@
     }).join("");
   }
 
-  fetch("https://api.github.com/repos/" + REPO + "/contents/publications")
+  // jsDelivr mirrors the repo and lists/serves files without GitHub's strict
+  // unauthenticated API rate limit, so this is far more reliable for visitors.
+  var CDN_BASE = "https://cdn.jsdelivr.net/gh/" + REPO + "@master";
+
+  fetch("https://data.jsdelivr.com/v1/package/gh/" + REPO + "@master/flat")
     .then(function(r){ if (!r.ok) throw new Error("list failed"); return r.json(); })
-    .then(function(files){
-      var bibFiles = files.filter(function(f){ return /\.bib$/i.test(f.name); });
-      if (!bibFiles.length){ showNote("No publications listed yet."); return; }
-      return Promise.all(bibFiles.map(function(f){
-        return fetch(f.download_url).then(function(r){ return r.text(); });
+    .then(function(data){
+      var bibPaths = (data.files || [])
+        .map(function(f){ return f.name; })
+        .filter(function(name){ return /^\/publications\/.*\.bib$/i.test(name); });
+      if (!bibPaths.length){ showNote("No publications listed yet."); return; }
+      return Promise.all(bibPaths.map(function(p){
+        return fetch(CDN_BASE + p).then(function(r){ return r.text(); });
       })).then(function(texts){
         var entries = texts.map(parseBibtex).filter(Boolean);
         if (!entries.length){ showNote("Publications list couldn't be parsed."); return; }
