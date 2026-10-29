@@ -1,0 +1,10 @@
+@misc{patel2026agentcodemaintainablehuman,
+      title={Is Agent Code Less Maintainable Than Human Code?}, 
+      author={Shaswat Patel and Betty Li Hou and Arun Purohit and Kai Xu and Jane Pan and He He and Valerie Chen},
+      year={2026},
+      eprint={2606.21804},
+      archivePrefix={arXiv},
+      venue={EMNLP},
+      primaryClass={cs.SE},
+      url={https://arxiv.org/abs/2606.21804}, 
+}
