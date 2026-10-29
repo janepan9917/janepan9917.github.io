@@ -141,8 +141,18 @@
     }).join(", ");
   }
 
+  // arXiv IDs are formatted YYMM.NNNNN, so an entry's URL gives us
+  // month + submission-order precision beyond the bibtex year field alone.
+  function sortKey(e){
+    var year = parseInt(e.year, 10) || 0;
+    var month = 0, seq = 0;
+    var m = (e.url || "").match(/(\d{2})(\d{2})\.(\d+)/);
+    if (m){ month = parseInt(m[2], 10) || 0; seq = parseInt(m[3], 10) || 0; }
+    return year * 1e10 + month * 1e7 + seq;
+  }
+
   function render(entries){
-    entries.sort(function(a, b){ return (b.year || "0") - (a.year || "0"); });
+    entries.sort(function(a, b){ return sortKey(b) - sortKey(a); });
     listEl.innerHTML = entries.map(function(e){
       var venue = e.venue || e.booktitle || e.journal || "";
       var meta = [formatAuthors(e.author), venue].filter(Boolean).join(" · ");
